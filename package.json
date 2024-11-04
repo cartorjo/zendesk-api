@@ -1,0 +1,28 @@
+{
+  "name": "zendesk-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --exec ts-node src/app.ts",
+    "fetch-tickets": "ts-node src/fetchTickets.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "bottleneck": "^2.19.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "sanitize-filename": "^1.6.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.8.6",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
