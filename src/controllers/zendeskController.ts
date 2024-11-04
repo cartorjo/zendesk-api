@@ -1,117 +1,96 @@
-import { Request, Response } from 'express';
-import axios, { AxiosResponse } from 'axios';
-import fs from 'fs/promises';
+// src/controllers/zendeskController.ts
+import {Request, Response} from 'express';
+import axios from 'axios';
+import fs from 'fs';
 import path from 'path';
-import { config } from '../config';
-import { Logger } from '../logger';
-import { getBase64Token } from '../utils/auth';
-import Bottleneck from 'bottleneck';
-import sanitize from 'sanitize-filename';
+import {config} from '../config';
 
-const base64Token = getBase64Token();
+const base64Token = Buffer.from(`${config.zendeskEmail}/token:${config.zendeskToken}`).toString('base64');
+const PAGE_LIMIT = 1000; // Adjust per Zendesk limits
+const MAX_CONCURRENT_REQUESTS = 5; // Number of concurrent requests to avoid rate limiting
+const MAX_RETRIES = 3;
+const RETRY_DELAY = 1000; // 1 second initial delay for exponential backoff
 
-interface Ticket {
-    id: number;
-    subject: string;
-    description: string;
-    status: string;
-    // Add other relevant fields
-}
-
+// Type definitions for data and API response
 interface ZendeskResponse {
-    tickets: Ticket[];
-    next_page: string | null;
+    results: any[]; // Adjust according to data shape
+    next_page?: string;
 }
 
-const saveDataToFile = async (data: any, filename: string) => {
-    const dataDir = path.join(__dirname, '..', 'data');
-    const sanitizedFilename = sanitize(filename);
-    const filePath = path.resolve(dataDir, sanitizedFilename);
+interface FetchError extends Error {
+    response?: {
+        status: number;
+        data: any;
+    };
+}
 
-    await fs.mkdir(dataDir, { recursive: true });
-    await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');
+// Function to save data to a JSON file as a writable stream
+const createFileStream = (filename: string) => {
+    const filePath = path.join(__dirname, '..', 'data', filename);
+    return fs.createWriteStream(filePath, {flags: 'a'}); // Append mode for streaming
 };
 
-const limiter = new Bottleneck({
-    minTime: 1000 // 60 requests per minute
-});
+// Helper to fetch a single page of Zendesk data
+const fetchZendeskPage = async (url: string, retries = 0): Promise<ZendeskResponse> => {
+    try {
+        const response = await axios.get(url, {
+            headers: {Authorization: `Basic ${base64Token}`},
+        });
+        return response.data;
+    } catch (error) {
+        const err = error as FetchError;
+        if (retries < MAX_RETRIES) {
+            console.warn(`Retrying page ${url} (attempt ${retries + 1}): ${err.message}`);
+            await new Promise((resolve) => setTimeout(resolve, RETRY_DELAY * Math.pow(2, retries))); // Exponential backoff
+            return fetchZendeskPage(url, retries + 1);
+        }
+        throw new Error(`Failed to fetch ${url} after ${MAX_RETRIES} retries`);
+    }
+};
 
-const fetchTickets = async (url: string): Promise<Ticket[]> => {
-    let tickets: Ticket[] = [];
-    let nextPage: string | null = url;
+// Fetch all pages with rate limiting and save them as a stream
+const fetchAllPages = async (endpoint: string, writeStream: fs.WriteStream) => {
+    let nextPage = `https://${config.zendeskSubdomain}.zendesk.com/api/v2/${endpoint}.json?per_page=${PAGE_LIMIT}`;
+    const requestQueue: Promise<void>[] = [];
 
     while (nextPage) {
-        try {
-            const response: AxiosResponse<ZendeskResponse> = await limiter.schedule(() => axios.get(nextPage as string, {
-                headers: {
-                    'Authorization': `Basic ${base64Token}`
-                }
-            }));
-
-            tickets = tickets.concat(response.data.tickets);
-            nextPage = response.data.next_page;
-
-            if (response.headers['x-rate-limit-remaining'] === '0') {
-                const retryAfter = parseInt(response.headers['retry-after'], 10) * 1000;
-                Logger.info(`Rate limit reached. Retrying after ${retryAfter} ms`);
-                await new Promise(resolve => setTimeout(resolve, retryAfter));
-            }
-        } catch (error: any) {
-            const errorMessage = error.response ? error.response.data : error.message;
-            Logger.error(`Error fetching tickets: ${errorMessage}`);
-            throw error;
+        if (requestQueue.length >= MAX_CONCURRENT_REQUESTS) {
+            await Promise.race(requestQueue); // Wait for one request to complete before adding more
         }
+
+        const fetchTask = (async (pageUrl: string) => {
+            const data = await fetchZendeskPage(pageUrl);
+            data.results.forEach((result) => writeStream.write(JSON.stringify(result) + '\n')); // Stream data to file
+            nextPage = data.next_page || ''; // Update next page or exit
+        })(nextPage);
+
+        requestQueue.push(fetchTask);
+        fetchTask.finally(() => requestQueue.splice(requestQueue.indexOf(fetchTask), 1)); // Remove completed task
     }
 
-    return tickets;
+    await Promise.all(requestQueue); // Ensure all requests finish
 };
 
-export const fetchTicketsByPage = async (req: Request, res: Response) => {
-    const { page } = req.params;
-    const url = `https://${config.zendeskSubdomain}.zendesk.com/api/v2/incremental/tickets.json?start_time=${page}`;
+// Main controller function to handle the fetch request
+export const fetchZendeskData = async (req: Request, res: Response) => {
+    const {endpoint} = req.params;
+    const filename = `${endpoint}.json`;
+
+    // Create writable stream for output file
+    const writeStream = createFileStream(filename);
 
     try {
-        const tickets = await fetchTickets(url);
-        await saveDataToFile(tickets, `ticketsPage${page}.json`);
-        res.json(tickets);
-    } catch (error: any) {
-        res.status(500).json({ error: 'Failed to fetch tickets from Zendesk. Please try again later.' });
-    }
-};
+        console.log(`Starting data fetch for endpoint: ${endpoint}`);
+        await fetchAllPages(endpoint, writeStream);
 
-export const fetchTicketById = async (req: Request, res: Response) => {
-    const { id } = req.params;
-    const url = `https://${config.zendeskSubdomain}.zendesk.com/api/v2/tickets/${id}.json`;
-
-    try {
-        const response: AxiosResponse<{ ticket: Ticket }> = await axios.get(url, {
-            headers: {
-                'Authorization': `Basic ${base64Token}`
-            }
+        res.json({message: 'Data fetched and saved successfully.', filename});
+    } catch (error) {
+        console.error('Error fetching data:', error);
+        res.status(500).json({
+            error: 'Failed to fetch data from Zendesk. Please try again later.',
+            details: error instanceof Error ? error.message : 'Unknown error',
         });
-
-        res.json(response.data.ticket);
-    } catch (error: any) {
-        const errorMessage = error.response ? error.response.data : error.message;
-        Logger.error(`Error fetching ticket by ID: ${errorMessage}`);
-        res.status(500).json({ error: 'Failed to fetch ticket from Zendesk. Please try again later.' });
-    }
-};
-
-export const fetchTicketStatistics = async (req: Request, res: Response) => {
-    const url = `https://${config.zendeskSubdomain}.zendesk.com/api/v2/tickets/count.json`;
-
-    try {
-        const response: AxiosResponse<{ count: number }> = await axios.get(url, {
-            headers: {
-                'Authorization': `Basic ${base64Token}`
-            }
-        });
-
-        res.json({ count: response.data.count });
-    } catch (error: any) {
-        const errorMessage = error.response ? error.response.data : error.message;
-        Logger.error(`Error fetching ticket statistics: ${errorMessage}`);
-        res.status(500).json({ error: 'Failed to fetch ticket statistics from Zendesk. Please try again later.' });
+    } finally {
+        writeStream.end(); // Close the file stream
     }
 };
