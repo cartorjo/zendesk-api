@@ -1,0 +1,30 @@
+{
+  "id": 8676964970012,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8676964970012.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8676964970012-T-mobilitat-recepci%C3%B3-de-notificacions",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003814159,
+  "created_at": "2023-05-04T08:16:15Z",
+  "updated_at": "2024-05-13T08:33:07Z",
+  "name": "T-mobilitat: recepció de notificacions",
+  "title": "T-mobilitat: recepció de notificacions",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-05-13T08:33:02Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Què són les notificacions?</strong><br>Són accions de comunicació que T-mobilitat envia a nivell informatiu als seus clients.</p>\n<p><strong>Tots els clients reben notificacions?</strong><br>El client pot seleccionar si vol rebre o no notificacions; i, en cas afirmatiu, com les vol rebre.</p>\n<p><strong>Com es reben les notificacions?</strong><br>Les notificacions s’envien per correu electrònic i/o missatge de text, en funció del canal escollit per l’usuari.</p>\n<p><strong>Qui realitza aquestes comunicacions?</strong><br>Es tracta de comunicacions estandarditzades en funció de l’acció realitzada en el compte del client.</p>\n<p><strong>Quines accions es notifiquen als clients?</strong><br>Tota acció que un agent d’atenció dugui a terme i que modifiqui l’estat del seu compte, perfil bonificat, suports, factures... sempre que el client hagi seleccionat que vol rebre notificacions.</p>\n<p><strong>Si un client ja no vol rebre notificacions, pot canviar-ho?</strong><br>Sí, els clients poden decidir si reben o no comunicacions, i com les reben.</p>\n<p><strong>Pot un agent d’atenció contactar amb un client que no vol rebre notificacions?</strong><br>Els serveis jurídics de l’ATM, a un correu electrònic de 03 maig 2023, considera que hi ha dos tipus de notificacions: per una banda, les informatives o publicitàries; de l’altra, les d’atenció, gestió de sol·licituds o incidències.</p>\n<p>Respecte les notificacions informatives o publicitàries, cap agent d’atenció o operador pot contactar amb un client que no vulgui rebre-les. Aquest tipus de comunicacions corresponen a les que modifiquen les dades personals de la fitxa del client, l’emissió de sol·licituds de o sobre el suport, factures...</p>\n<p>Respecte les d’atenció, gestió de sol·licituds o incidències, el departament jurídic d’ATM considera que la legitimació és diferent i “per tant, en l’exercici dels nostres poders públics com a gestors del transport públic hem de poder trucar i solucionar el que ha passat”.</p>\n<p>Això significa que podem contactar amb un client, per solucionar una incidència, informar sobre l’estat d’una sol·licitud o donar atenció personalitzada, tot i que el client hagi especificat que no vol rebre notificacions.</p>\n<p><strong>Qui contacta amb els clients que no volen rebre comunicacions?</strong><br>El canal que hagi rebut la comunicació/ incidència serà l’encarregat de contactar amb el client o de solucionar la incidència. En el cas que no pugui trobar una solució, derivarà la incidència seguint el protocol de comunicació d’incidències descrit en aquest portal.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

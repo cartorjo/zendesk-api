@@ -1,0 +1,35 @@
+{
+  "id": 360014318719,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014318719.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014318719-T%C3%ADtols-FM-FN",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208780,
+  "created_at": "2020-06-05T13:08:37Z",
+  "updated_at": "2024-09-09T08:49:19Z",
+  "name": "Títols: FM/FN",
+  "title": "Títols: FM/FN",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-09T08:49:16Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Familia Nombrosa",
+    "Familia Monoparental",
+    "FM/FN",
+    "carnet familia"
+  ],
+  "body": "<h3 id=\"h_01HFRT9GPZYKKQVN4JXZDVT3F0\">Quins títols FM/FN hi ha?</h3>\n<p>Els títols disponibles per a Famílies Monoparental o Nombroses són:</p>\n<ul>\n<li>T-usual FM/FN general (reducció del 20%)</li>\n<li>T-usual FM/FN especial (reducció del 50%)</li>\n<li>T-jove FM/FN general (reducció del 20%)</li>\n<li>T-jove FM/FN especial (reducció del 50%)</li>\n<li>T-70/90 FM/FN general (reducció del 20%)</li>\n<li>T-70/90 FM/FN general (reducció del 50%)</li>\n</ul>\n<h3 id=\"h_01HFRT9GPZG9H5FND8AMXG3V9N\">Quins requisits són necessaris per comprar títols FM/FN?</h3>\n<p>Per a adquirir els títols de transport amb bonificació FM/FN, cal presentar els documents acreditatius següents (originals i vigents):</p>\n<ul>\n<li>El DNI, el NIE o el passaport.</li>\n<li>El títol de família monoparental o nombrosa (el títol familiar o l'individual) que hagi emès la Generalitat de Catalunya o el títol de família nombrosa emès per qualsevol altra comunitat autònoma. No és vàlid presentar el justificant de sol·licitud o renovació.</li>\n</ul>\n<p>Tant en el moment de l'adquisició del títol de transport com en el moment de la primera validació, les persones beneficiàries del descompte han de tenir en vigor el document que acrediti la seva identitat (DNI, NIE o passaport del titular) i el document que acrediti la condició de membre de família monoparental o de família nombrosa de categoria general o especial.</p>\n<h3 id=\"h_01HFRT9GPZSV983QF2571T0P6F\">On puc comprar els títols FM/FN?</h3>\n<ul>\n<li><a href=\"https://www.tmb.cat/ca/atencio-al-client/punts-atencio/punts-tmb\" target=\"_blank\" rel=\"noopener noreferrer\">Punts TMB.</a></li>\n<li>\n<a href=\"https://tickets.tmb.cat/ca\" target=\"_blank\" rel=\"noopener noreferrer\">Web TMB</a> i TMB App amb la T-mobilitat. El 10 de novembre de 2023 va finalitzar la compra online amb recollida a metro.</li>\n<li>Centres d’atenció d’altres operadors:\n<ul>\n<li>\n<a href=\"https://www.fgc.cat/atencio-al-client/\" target=\"_blank\" rel=\"noopener noreferrer\">FGC</a>: Al Centre d’Atenció al Client de Pl. Catalunya i de Pl. Espanya</li>\n<li>\n<a href=\"http://rodalies.gencat.cat/ca/atencio_al_client/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Rodalies</a>: a totes les estacions amb personal de venda.</li>\n<li>Estacions de busos:: Barcelona Nord (c/ d'Ali Bei, 80), Granollers (av. del Parc, 2), Igualada (pg. de Verdaguer, s/n) i Manresa (c/ de Sant Antoni Maria Claret, s/n).</li>\n<li>Oficines de mobilitat::Sabadell (c/ de la Borriana, 33-35),Sant Feliu de Llobregat (ctra. Laureà Miró, 426) i Terrassa (c/ d'Iscle Soler, 9).</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"h_01HFRT9GPZTGMC7Y787PXM9V3E\">Fins quan podré beneficiar-me?</h3>\n<p>La condició de beneficiari del títol de FM/FN es manté durant la vigència del títol, encara que es perdi la condició de membre de família monoparental o de família nombrosa de categoria general o especial, sempre que s'aporti la documentació que acredita que es gaudia d'aquesta condició en el moment de l'adquisició i de la primera validació del títol. Per tant, durant la vigencia del títol li pot caducar el carnet de FM/FN però el dia que el va començar havia d’estar vigent.</p>\n<h3 id=\"h_01HFRT9GPZXB5P8DGGS3AFA2NS\">On puc sol·licitar el carnet FM/FN?</h3>\n<p>Els carnets el gestiona el Departament de Treball, Afer Socials i Família. Es pot sol·licitar online:</p>\n<p>- <a href=\"https://web.gencat.cat/ca/tramits/tramits-temes/Titol-de-familia-monoparental-00001?category=76531384-a82c-11e3-a972-000c29052e2c\" target=\"_blank\" rel=\"noopener noreferrer\">Família Monoparental</a></p>\n<p><a href=\"https://web.gencat.cat/ca/tramits/tramits-temes/Titol-de-familia-nombrosa?category=76531384-a82c-11e3-a972-000c29052e2c%C2%A0\" target=\"_blank\" rel=\"noopener noreferrer\">- Família Nombrosa</a></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

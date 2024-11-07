@@ -1,0 +1,30 @@
+{
+  "id": 8506519705116,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8506519705116.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8506519705116-Corporatiu-TMB-consultoria-internacional",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209560,
+  "created_at": "2023-04-20T08:38:40Z",
+  "updated_at": "2024-09-02T11:29:03Z",
+  "name": "Corporatiu/TMB: consultoria internacional",
+  "title": "Corporatiu/TMB: consultoria internacional",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-02T11:29:01Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Què és?</strong></p>\n<p>És un servei d'assessoria internacional de TMB en diferents projectes del transport públic.</p>\n<p>Per a rebre més informació cal omplir el formulari de contacte <a href=\"https://www.tmb.cat/ca/negocis-i-empreses/consultoria-internacional\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tmb.cat/ca/negocis-i-empreses/consultoria-internacional</a> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

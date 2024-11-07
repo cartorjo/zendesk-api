@@ -1,0 +1,30 @@
+{
+  "id": 8496303433756,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8496303433756.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8496303433756-Corporatiu-TMB-rampes-bus",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209160,
+  "created_at": "2023-04-19T12:29:29Z",
+  "updated_at": "2023-11-03T19:23:24Z",
+  "name": "Corporatiu/TMB: rampes bus",
+  "title": "Corporatiu/TMB: rampes bus",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-06-19T09:24:35Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Tots els vehicles disposen de rampa?</strong></p>\n<p>Des del 2007, la xarxa de bus està adaptada en la seva totalitat per a persones amb mobilitat reduïda (PMR). Els autobusos de la flota disposen de seients reservats a l’interior dels vehicles i rampa d’accés al vehicle.</p>\n<p>Amb els nous vehicles incorporats el 2020, les persones amb mobilitat reduïda disposen de noves millores d’accessibilitat com ara portes més amples i el desplegament d’una rampa que s’ajusta a l’obertura de les portes, per facilitar la maniobrabilitat dels usuaris en cadira de rodes. La millora més destacable és la disposició enfrontada dels dos espais reservats per a cadires de rodes, escúters i cotxets infantils; a més a més, queda garantida la seguretat de l’usuari en cadira de rodes gràcies a una barra de subjecció lateral plegable i a unes cingles ajustables.</p>\n<p><strong>Qui pot fer servir les rampes del bus?</strong></p>\n<p>Els/les usuaris/usuàries que vagin amb cadira de rodes i els/les que duguin cotxet d'infants de bessons estan autoritzats a fer servir la rampa d'accés.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

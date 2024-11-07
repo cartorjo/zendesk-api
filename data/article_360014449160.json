@@ -1,0 +1,32 @@
+{
+  "id": 360014449160,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014449160.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014449160-T%C3%ADtols-compres-massives-o-de-grans-quantitats",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208820,
+  "created_at": "2020-06-16T09:09:49Z",
+  "updated_at": "2023-11-03T19:23:04Z",
+  "name": "Títols: compres massives o de grans quantitats",
+  "title": "Títols: compres massives o de grans quantitats",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-08-07T11:34:27Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Compra massiva títols"
+  ],
+  "body": "<p><strong>On haig de dirirgir-me per fer una compra de grans quantitats?</strong></p>\n<p>Les comandes massives dels títols es gestionen:</p>\n<p>- des del correu electrònic <a href=\"mailto:comandestitols@tmb.cat\">comandestitols@tmb.cat</a>. El client ha de facilitar un seguit de dades d’identificació fiscal, del tipus i nombre de títols, d’identificació de la persona que recollirà els títols, etc.</p>\n<p>- als Punts TMB.</p>\n<p>Un cop TMB disposi de les dades, s'envia al client una factura proforma que s’ha d’abonar per transferència bancària al compte que TMB indiqui. Un cop abonada, TMB prepara la comanda i la pot recollir al Punt TMB Universitat o a les oficines centrals a Zona Franca (carrer 60, núm. 21-23. Sector A, Polígon Industrial de la Zona Franca, 08040 Barcelona).</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

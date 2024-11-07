@@ -1,0 +1,36 @@
+{
+  "id": 4404065626130,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4404065626130.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4404065626130-T-mobilitat-Informaci%C3%B3-general-suport-m%C3%B2bil",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003814139,
+  "created_at": "2021-07-21T11:20:30Z",
+  "updated_at": "2024-05-10T10:44:13Z",
+  "name": "T-mobilitat: Informació general suport mòbil",
+  "title": "T-mobilitat: Informació general suport mòbil",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-05-10T10:44:10Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "informació",
+    "T-mobilitat",
+    "suports",
+    "caracteristiques",
+    "mòbil"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Què s'ha de fer per <a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/4404303917202\" target=\"_self\">obtenir el suport mòbil</a>?</strong></p>\n<ol class=\"wysiwyg-text-align-justify\">\n<li>Tenir descarregades la TMB App i l'app Cartera electrònica.</li>\n<li>Estar registrat al JoTMBé.</li>\n<li>Ser client T-mobilitat.</li>\n</ol>\n<p class=\"wysiwyg-text-align-justify\"><strong>Es pot tenir en qualsevol mòbil?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">No. L’App de suports virtuals, Cartera electrònica, únicament funciona en els dispositius Android (versió igual o superior a 6) amb NFC.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quin és el preu del suport mòbil?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Te un preu de 1€, que es paga abans de carregar el primer títol.</p>\n<p class=\"wysiwyg-text-align-justify\">Aquest pagament és únic. Tot i que el client desintal·li l'aplicació, no tornarà a fer el pagament. Només en el cas que el client doni de baixa el seu compte de client T-mobilitat i posteriormente es doni d'alta novament haurà d'abonar el pagament.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quins títols pot contenir?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Als suports mòbils s’hi pot carregar qualsevol títol disponible per T-mobilitat, a excepció de la T-16.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quants títols pot contenir?</strong></p>\n<p>- Actualment, tots els suports T-mobilitat (PVC, mòbil i cartró) només poden contenir un únic tipus de títol, amb els seus dos contenidors de recàrrega.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quina caducitat té el suport?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">No té caducitat, es pot fer servir de manera indefinida.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Qui el pot fer servir?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Qualsevol usuari major d'edat, que no estigui vinculat a cap client gestor, i que hagi fet el pagament del seu cost.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Es pot  tenir el mateix suport virtual en dos mòbils diferents?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">No, un mateix suport mòbil únicament podrà estar disponible en un dispositiu. En aquest sentit, en iniciar sessió en un de nou, automàticament es fa log out de la sessió que el client tingués oberta prèviament. Per tant, únicament es podrà tenir la sessió iniciada de manera simultània en un mòbil.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què passa si es canvia de mòbil o es perd?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">En cas de canviar de mòbil o de perdre’l, el client haurà d’iniciar sessió a JoTMBé i descarregar-se TMB App i App Cartera electrònica en el nou mòbil. Un cop iniciada la sessió en el nou mòbil el client haurà de vincular la cartera electrònica (l'aplicació força aquest procés quan s'accedeix a l'apartat T-mobilitat &gt;Mòbil), i seguir els passos que indiqui l'aplicació, i ja podrà accedir al seu suport i títols virtuals i, de manera automàtica, es tancarà la sessió en el mòbil antic.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com es valida?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Simplement s'ha d'acostar el mòbil al lector de la validadora per tal que es puguin fer les pertinents comprovacions i admetre, o no, la validació.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com s'ha de tenir el mòbil per validar?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Per poder validar correctament amb el mòbil, la condició és que el mòbil de l’usuari ha d’estar en estat actiu i amb l'NFC connectat. Això vol dir que ha d’estar la pantalla encesa, però no cal desbloquejar-lo ni tenir l’aplicació oberta, ja que TMB App no interfereix en la validació. Tampoc requereix de connexió a internet.</p>\n<p class=\"wysiwyg-text-align-justify\">Addicionalment, es recomana al client que per validar correctament, apropi el mòbil al validador i el mantingui fixe (sense moure'l) durant uns segons.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Es necessita cobertura per validar?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">No. El suport mòbil valida mitjançant la tecnologia NFC, no amb internet.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Es necessita internet en el cas d'una inspecció?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">No cal que el mòbil disposi de comunicació a internet per a que sigui intervingut, la inspecció es podrà fer sense problema.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què passa si s'acaba la bateria del mòbil?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">L’estat d’un suport és sempre responsabilitat de l’usuari, i per tant també és responsabilitat seva el tenir el mòbil amb bateria.</p>\n<p class=\"wysiwyg-text-align-justify\">Si un usuari no pot validar o no pot acreditar que ha validat en un viatge perquè s’ha quedat sense bateria i és intervingut, se li hauria d’imposar la sanció corresponent.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Si un usuari, que fa ús del suport mòbil, es canvia de dispositiu a un iPhone, pot recuperar el títol?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">No. Com la cartera electrònica no es pot instal·lar en dispositius iPhone, si un usuari es canvia de dispositiu mòbil, d'Android a iOS, perdrà els títols que tingués. Com el canvi de mòbil no és una incidència del sistema, els títols no es recuperen. Haurà d'adquirir un suport PVC i carregar-hi els títols.</p>\n<p> </p>\n<p> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

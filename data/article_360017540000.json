@@ -1,0 +1,36 @@
+{
+  "id": 360017540000,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360017540000.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360017540000-Metro-m%C3%A0quines-de-vending",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2020-11-18T11:18:49Z",
+  "updated_at": "2023-11-03T19:23:07Z",
+  "name": "Metro: màquines de vending",
+  "title": "Metro: màquines de vending",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-05-08T10:51:58Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "màquines",
+    "vending",
+    "estacions",
+    "selecta",
+    "mobiloso"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Què son?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">A la xarxa de metro, hi ha màquines vending d’snacks i altres piscolabis (Selecta) i d’accessoris per a mòbils (Mobiloso).</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què passa si hi ha una incidència?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Les incidències en aquests serveis es tracten directament per part de l’empresa que correspongui i per això es facilitaran, al client, les dades de contacte de l’empresa. El client haurà d’aportar dades concretes, com data, hora, estació, número de màquina i fet.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>On es poden trobar les dades de contacte de l'empresa?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">A la part frontal totes les màquines l'usuari trobarà el nom i el telèfon de contacte.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quines empreses ho gestionen?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Selecta i Mobiloso.</p>\n<p><strong>Quin és el contacte?</strong></p>\n<p><strong>Selecta:</strong></p>\n<p><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/8490719477148\"> </p>\n<p><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/8490721402140\"></p>\n<p><strong>Mobiloso:</strong> (disponible 24 h els 365 dies de l'any)</p>\n<p>- telèfon gratuït: 900 850 078</p>\n<p>- correu electrònic: <a style=\"background-color: #ffffff;\" href=\"mailto:in@mobiloso.es\">in@mobiloso.es</a></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

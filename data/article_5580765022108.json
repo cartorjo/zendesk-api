@@ -1,0 +1,32 @@
+{
+  "id": 5580765022108,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/5580765022108.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/5580765022108-T-mobilitat-zones-del-sistema-tarifari-integrat",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003770400,
+  "created_at": "2022-08-09T09:13:17Z",
+  "updated_at": "2024-05-08T09:00:58Z",
+  "name": "T-mobilitat: zones del sistema tarifari integrat",
+  "title": "T-mobilitat: zones del sistema tarifari integrat",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-05-08T09:00:26Z",
+  "user_segment_id": null,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "zones",
+    "T-mobilitat",
+    "corredors"
+  ],
+  "body": "<p><strong>Què són les zones del sistema tarifari integrat?</strong></p>\n<p>El sistema tarifari integrat abraça un total de 296 municipis i es divideix en sis corones o zones, amb <a href=\"https://www.tmb.cat/ca/tarifes-metro-bus-barcelona/senzills-i-integrats/mapa-zones\">diferents sectors tarifaris</a>. Un títol de transport permet utilitzar els mitjans de transport necessaris per a desplaçar-se d'un punt a un altre.</p>\n<p><strong>Es pot fer servir T-mobilitat a les sis zones?</strong></p>\n<p>Tots els operadors de transport de l'Àrea Metropolitana estan integrats a T-mobilitat. L'usuari només ha d'adquirir el títol de transport d'acord amb el nombre de zones per on transiti.</p>\n<p><strong>Quins títols es poden fer servir?</strong></p>\n<p>Es poden fer servir els títols disponibles actualment a T-mobilitat (T-16, T-usual, T-jove, T-casual, T-familiar, T-grup i T-70/90), en els formats generals i/o FM/FN, d' 1 a 6 zones.</p>\n<p><strong>On es poden adquirir aquests títols?</strong></p>\n<p>Es poden comprar per tots els canals que els diferents operadors posin a disposició dels usuaris: canals digitals, màquines d'autovenda, punts d'atenció presencial.</p>\n<p><strong>Què pot fer el client si l’usuari s’equivoca de zona al validar per primer cop?</strong></p>\n<p>En el cas d’una targeta personalitzada, el client ha d’anar presencialment a un Punt TMB (o d’altres operadors) per tal de realitzar el canvi de zona de primera validació fent servir el PAC.</p>\n<p>En el cas de fer servir un suport virtual:</p>\n<ul>\n<li>Si el client ho sol·licita presencialment, l’agent d’atenció farà un bescanvi en magnètic amb la zona corregida i bloquejarà el títol virtual. Posteriorment, caps de Punt ho comunicaran al nivell 2 d’atenció (Equip de suport OAE o Backoffice) per tal d’extreure el títol bloquejat del suport mòbil. Backoffice comunicarà a Billetatge el títol a extreure, i, un cop extret, desbloquejarà el títol del suport.</li>\n<li>Si el client ens ho comunica per canals remots, caldrà sol·licitar al nostre nivell 2 d’atenció (Equip suport OAE o Backoffice) l’extracció del títol del suport i, posteriorment, es derivarà al client a un dels Punts habilitats per lliurar un bescanvi magnètic amb la zona corregida. Backoffice comunicarà a Billetatge el títol a extreure, i, un cop extret, desbloquejarà el títol del suport.</li>\n</ul>\n<p> </p>\n<p><img src=\"https://www.tmb.cat/documents/20182/62743/PT_Basica-Mapa-de-zones/945d80bf-8b9a-4646-961e-83c64b93f66e?t=1639144632000\"></p>",
+  "user_segment_ids": []
+}

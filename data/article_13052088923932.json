@@ -1,0 +1,30 @@
+{
+  "id": 13052088923932,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/13052088923932.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/13052088923932-Corporatiu-TMB-accessibilitat-estacions-de-metro",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209160,
+  "created_at": "2024-03-13T07:37:14Z",
+  "updated_at": "2024-03-13T08:45:54Z",
+  "name": "Corporatiu/TMB: accessibilitat estacions de metro",
+  "title": "Corporatiu/TMB: accessibilitat estacions de metro",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-03-13T08:45:50Z",
+  "user_segment_id": 360000705231,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>La xarxa de metro és accessible?</strong></p>\n<p>Tota la xarxa de metro de Barcelona és accessible, llevat d’algunes estacions (12 de les 165 estacions totals).</p>\n<p><strong>Quines són les estacions pendents d'adaptació?</strong></p>\n<p>L1: Plaça de Sants, Espanya, Urquinaona i Clot</p>\n<p>L3: Espanya</p>\n<p>L4: Verdaguer, Urquinaona i Ciutadella-Vila Olímpica</p>\n<p>L5: Virrei Amat, Maragall, Verdaguer i Plaça de Sants</p>\n<p><strong>Hi ha enllaços entre línies i/o operadors no adaptats?</strong></p>\n<p>Catalunya L1/Rodalies - L3/FGC (no és accessible l’enllaç des de la L1 de metro i Rodalies a la L3 de metro i FGC, i a la inversa).</p>\n<p>Passeig de Gràcia L2/L4 - L3/Rodalies/Renfe (no és accessible l’enllaç des de la L2 i la L4 de metro a la L3 de metro i Rodalies/Renfe, i a la inversa).</p>\n<p>Clot L1 - L2 (no és accessible l’enllaç des de la L1, que és una estació no accessible, a la L2, que és una estació accessible, i a la inversa).</p>\n<p><strong>Quines obres s'estan executant?</strong></p>\n<p><span class=\"wysiwyg-underline\">Espanya L1-L3.</span> L'actuació en marxa consisteix en adaptar les estacions de L1 i L3 i els itineraris de correspondència entre aquestes i amb l'estació de FGC (ja accessible).  S'ha de reconfigurar la passarela d'intercanci entre andanes de l'L1, la remodelació de l'actual vestíbul de l'L3 i la instal·lació de diversos ascensors per a garantir la connexió entre els diversos nivells de les estacions.</p>\n<p>Més informació: <a href=\"https://govern.cat/salapremsa/notes-premsa/531542/obres-dadaptacio-lintercanviador-placa-espanya-comporten-modificacions-lacces-ll3\">https://govern.cat/salapremsa/notes-premsa/531542/obres-dadaptacio-lintercanviador-placa-espanya-comporten-modificacions-lacces-ll3</a> </p>\n<p><span class=\"wysiwyg-underline\">Ciutadella-Villa Olímpica.</span> S'instal·laran tres ascensors: un des del carrer fins al vestíbul i dos per a comunicar el vestíbul amb cada andana. Per a accedir als ascensors des del vestíbul, es construirà una passarel·la per sobre de les vies.</p>\n<p>El termini d'execució és de 19 mesos i el pressupost de 5,8 MEUR.</p>\n<p>Més informació: <a href=\"https://exteriors.gencat.cat/ca/ambits-dactuacio/afers_exteriors/ue/fons_europeus/detalls/noticia/20240118_accessibilitat-metro\">https://exteriors.gencat.cat/ca/ambits-dactuacio/afers_exteriors/ue/fons_europeus/detalls/noticia/20240118_accessibilitat-metro</a> </p>\n<p><span class=\"wysiwyg-underline\">Intercanviador Clot (L1, L2 i Rodalies).</span> Es generarà un itinerari accessible entre el nivell de carrer, el vestíbul i les andanes de l'L1, així com la seva correspondència amb la l'L2 i Rodalies (estacions ja accessibles).</p>\n<p>El termini d'execució és de 21 mesos i el pressupost de 6,1 MEUR.</p>\n<p>Més informació: <a href=\"https://exteriors.gencat.cat/ca/ambits-dactuacio/afers_exteriors/ue/fons_europeus/detalls/noticia/20240118_accessibilitat-metro\">https://exteriors.gencat.cat/ca/ambits-dactuacio/afers_exteriors/ue/fons_europeus/detalls/noticia/20240118_accessibilitat-metro</a> </p>\n<p><span class=\"wysiwyg-underline\">Intercanviador Passeig de Gràcia (Metro i Rodalies).</span> S'han d'instal·lar 4 ascensors que permetran no haver de sortir al carrer per fer els transboraments:</p>\n<p>- 1 ascensor que comunicarà el passadís de connexió L3-L4 amb l'andana L3 via 1.</p>\n<p>- 2 ascensors que comunicaran les andanes de l'L4 amb el passadís intermedi que connecta amb l'L2 i amb el passadís L3-L4.</p>\n<p>- 1 ascensor ubicat a la vorera del Passeig de Gràcia, que connectarà el carrer amb el vestíbul de l'L4.</p>\n<p>El termini d'execució és de 22 mesos i el pressupost de 4,8 MEUR.</p>\n<p>Més informació: <a href=\"https://govern.cat/salapremsa/notes-premsa/588742/territori-inicia-obres-millorar-laccessibilitat-lintercanviador-passeig-gracia\">https://govern.cat/salapremsa/notes-premsa/588742/territori-inicia-obres-millorar-laccessibilitat-lintercanviador-passeig-gracia</a> </p>",
+  "user_segment_ids": [
+    360000705231
+  ]
+}

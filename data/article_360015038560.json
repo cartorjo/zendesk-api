@@ -1,0 +1,35 @@
+{
+  "id": 360015038560,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360015038560.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360015038560-Canals-d-atenci%C3%B3-i-tr%C3%A0mits-telef%C3%B2nic",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 8661460225436,
+  "created_at": "2020-07-09T09:16:39Z",
+  "updated_at": "2024-08-30T09:36:03Z",
+  "name": "Canals d'atenció i tràmits: telefònic",
+  "title": "Canals d'atenció i tràmits: telefònic",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-30T09:35:59Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "oci",
+    "telèfon",
+    "informació",
+    "atenció"
+  ],
+  "body": "<p><strong>Quins telèfons hi ha d'atenció al client?</strong></p>\n<p>Hi ha tres telèfons:</p>\n<ul>\n<li>Residents: 900 70 11 49 tots els dies de 8 a 21 hores.</li>\n<li>No residents: 93 465 53 13 de 9 a 20 h hores tots els dies (horari temporal).</li>\n<li>Bus a la Demanda: 900 92 75 75 de 7 a 20 hores.</li>\n</ul>\n<h3 id=\"h_01J6HA8766D1X9TXG8NMYJT27B\">Telèfon per a residents</h3>\n<p><strong>Quins tràmits es poden fer?</strong></p>\n<ul>\n<li>Informació general de la xarxa de metro i bus convencional.</li>\n<li>Informació general de títols de transport.</li>\n<li>Presentació de queixes, reclamacions o suggeriments.</li>\n<li>Sol·licitud de cita prèvia.</li>\n<li>Consulta d'objectes perduts.</li>\n<li>Altra informació referent a TMB.</li>\n</ul>\n<p>No es fan tràmits d'al·legacions o pagament de sancions o d'informació sobre l'estat d'una queixa o percepció mínima. </p>\n<h3 id=\"h_01J6HA8766JZ0E2VFTB25K8ZYS\">Telèfon per a no residents</h3>\n<p><strong>Quina informació es facilita?</strong></p>\n<p>Es facilita atenció i informació general de Transports Turístics: Barcelona Bus Turístic, Telefèric de Montjuïc, Barcelona Night Tour, Catalunya Bus Turístic i Hola Barcelona.</p>\n<p><strong>Horari</strong></p>\n<p>De novembre a febrer: tots els dies de 8 a 21 h.</p>\n<p>De març a octubre: tots els dies de 8 a 22 h.</p>\n<p>De juny a setembre: divendres, dissabtes i diumenges: fins a les 24 h.</p>\n<p><strong>L'horari actual és de dilluns a diumenge de 9 a 20 hores.</strong></p>\n<h3 id=\"h_01J6HA8766QXNSHN68TVA0CNBW\">Bus a la Demanda</h3>\n<p><strong>Quin servei ofereix?</strong></p>\n<p>Telèfon per fer una reserva d'<a href=\"https://www.tmb.cat/ca/barcelona/bus-a-demanda\" target=\"_blank\" rel=\"noopener noreferrer\">El Meu Bus</a>, modificar-la o cancel·lar-la i per donar-se d'alta al sistema d'El Meu Bus. </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

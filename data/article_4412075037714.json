@@ -1,0 +1,34 @@
+{
+  "id": 4412075037714,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4412075037714.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4412075037714-Bus-carregadors-USB",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003255259,
+  "created_at": "2021-12-10T08:36:48Z",
+  "updated_at": "2023-11-21T11:58:06Z",
+  "name": "Bus: carregadors USB",
+  "title": "Bus: carregadors USB",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-11-21T11:58:04Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "carregadors",
+    "bus",
+    "usb"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong><span data-contrast=\"none\">Hi ha carregadors USB al autobusos?</span></strong><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p class=\"wysiwyg-text-align-justify\"><span data-contrast=\"none\">Sí, e</span><span data-contrast=\"none\">ls endolls USB formen part de l’equipament de sèrie de tots els autobusos nous.</span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p class=\"wysiwyg-text-align-justify\"><strong><span data-contrast=\"none\">Des de quan hi ha carregadors?</span></strong><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p class=\"wysiwyg-text-align-justify\"><span data-contrast=\"none\">Des del 2015, els endolls USB formen part de l’equipament de sèrie de tots els autobusos nous.</span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p class=\"wysiwyg-text-align-justify\"><strong><span data-contrast=\"none\">Quants punts de recàrrega hi ha a cada bus?</span></strong><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p class=\"wysiwyg-text-align-justify\"><span data-contrast=\"none\">A cada autobús, hi ha almenys dues preses amb dos ports USB cadascuna, tres preses en el cas dels autobusos articulats.</span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p class=\"wysiwyg-text-align-justify\"><strong><span data-contrast=\"none\">S'ha de fer servir un cable propi?</span></strong><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p class=\"wysiwyg-text-align-justify\"><span data-contrast=\"none\">Sí, els usuaris han de portar el cable de recàrrega USB del seu telèfon mòbil.</span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

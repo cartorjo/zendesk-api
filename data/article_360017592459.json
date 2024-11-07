@@ -1,0 +1,36 @@
+{
+  "id": 360017592459,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360017592459.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360017592459-Bus-sortides-per-a-grups-en-bus",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 8722684892572,
+  "created_at": "2020-11-18T11:13:35Z",
+  "updated_at": "2023-11-03T19:23:07Z",
+  "name": "Bus: sortides per a grups en bus",
+  "title": "Bus: sortides per a grups en bus",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-05-08T10:40:47Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "grup",
+    "lloguer",
+    "sortides",
+    "escolar",
+    "reforç"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\">Si es rep una sol·licitud de reforç del servei d’una línia de bus per sortida de grup (escolar, esplai, etc.), cal conèixer les dades de: data, línia, parada d’origen, parada final, hora de pujada a la parada d’origen, hora de pujada a la parada final (tornada), nombre de persones.</p>\n<p class=\"wysiwyg-text-align-justify\">La resposta al client ha de ser del tipus:</p>\n<p class=\"wysiwyg-text-align-justify\">TMB no ofereix un servei de transport ad hoc. De tota manera, hem traslladat la informació que ens faciliteu a les persones que gestionen la línia de bus (la que vulguin agafar). Recomanem que, en cada vehicle, pugin un màxim de 30 persones del grup per viatjar més còmodament.</p>\n<p class=\"wysiwyg-text-align-justify\">Es pot demanar el reforç per consulta web o pel telèfon al 900 70 11 49. </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

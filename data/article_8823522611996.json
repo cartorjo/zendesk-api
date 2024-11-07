@@ -1,0 +1,30 @@
+{
+  "id": 8823522611996,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8823522611996.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8823522611996-Bus-accidents-assist%C3%A8ncia-sanit%C3%A0ria",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 8722684892572,
+  "created_at": "2023-05-16T09:40:34Z",
+  "updated_at": "2023-11-03T19:23:26Z",
+  "name": "Bus: accidents, assistència sanitària",
+  "title": "Bus: accidents, assistència sanitària",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-10-18T11:09:59Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p class=\"MsoNormalCxSpFirst\"><strong><span lang=\"CA\">Si viatjo al bus i em trobo malament, què puc fer?</span></strong></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\">Si un usuari/a necessita assistència mèdica urgent, a instància del conductor/a, el centre de control demanarà la presència dels serveis sanitaris on es trobi el bus aturat.</span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\"><strong>El bus ha tingut un accident mentre jo viatjava dintre i necessito assitència sanitària, què puc fer?</strong></span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\">Si l'usuari/a necessita assistència arran d'un accident, el conductor/a avisarà el centre de control de bus, que demanarà la presència dels serveis sanitaris.</span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\"><strong>He tingut un accident amb un bus, què puc fer?</strong></span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\">Si un/a conductor/a d'un altre vehicle té un accident amb un bus de TMB, ha de presentar una reclamació a través dels canals establerts (Punts TMB, formulari web, telèfon, etc.), aportant totes les dades possibles.</span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\"><strong>Com aconsegueixo les dades de l'asseguradora de TMB?</strong></span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\">No es poden facilitar les dades de l'asseguradora de TMB. Si un usuari/a ha patit una incidència mentre viatjava a l'interior del bus, mentre hi accedia o sortia o bé ha tingut un accident amb el bus mentre viatjava en un altre vehicle o com a vianant, ha de presentar una reclamació a través dels canals establerts (Punts TMB, formulari web, telèfon, etc.)</span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\"><strong>Com aconsegueixo les dades del conductor/a del bus implicat?</strong></span></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\">No es poden facilitar les dades personals dels empleats i empleades de TMB.</span></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

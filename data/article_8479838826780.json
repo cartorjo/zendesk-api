@@ -1,0 +1,30 @@
+{
+  "id": 8479838826780,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8479838826780.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8479838826780-Metro-vibracions-sorolls-i-esquerdes",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208920,
+  "created_at": "2023-04-18T10:20:03Z",
+  "updated_at": "2024-08-30T12:13:11Z",
+  "name": "Metro: vibracions, sorolls i esquerdes",
+  "title": "Metro: vibracions, sorolls i esquerdes",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-30T12:13:08Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Qui gestiona les comunicacions sobre vibracions, sorolls i esquerdes?</strong></p>\n<p>Les comunicacions sobre vibracions, sorolls i esquerdes pel pas del metro es gestionen des de Queixes, reclamacions i suggeriments (QRS) de l'Oficina d'Atenció Especialitzada (OAE).</p>\n<p><strong>ACTUACIÓ INTERNA (informació per a ISAD)</strong></p>\n<p>Si els comentaris arriben a través del formularis de consultes web aquests s'han de traslladar a QRS a través de Zendesk, canviant d'instància el ticket.</p>\n<p>Si els comentaris arriben a través de les xarxes socials, s'ha de informar al client/a que ompli el <a href=\"https://www.tmb.cat/ca/atencio-al-client/gestions/queixes-reclamacions-suggeriments\" target=\"_blank\" rel=\"noopener noreferrer\">formulari web de QRS</a><a href=\"https://www.tmb.cat/ca/atencio-al-client/gestions/queixes-reclamacions-suggeriments\"> </a>aportant informació sobre l'adreça afectada i un telèfon de contacte.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

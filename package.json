@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon --exec ts-node src/app.ts",
-    "fetch-tickets": "ts-node src/fetchTickets.ts"
+    "fetch-articles": "ts-node src/fetchArticles.ts",
+    "test-credentials": "ts-node src/testCredentials.ts"
   },
   "keywords": [],
   "author": "",

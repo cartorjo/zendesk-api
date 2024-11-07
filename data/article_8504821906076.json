@@ -1,0 +1,30 @@
+{
+  "id": 8504821906076,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8504821906076.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8504821906076-Corporatiu-TMB-portes-vermelles-trens",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209160,
+  "created_at": "2023-04-20T06:57:32Z",
+  "updated_at": "2023-11-03T19:23:24Z",
+  "name": "Corporatiu/TMB: portes vermelles trens",
+  "title": "Corporatiu/TMB: portes vermelles trens",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-08-09T08:37:51Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<h3>Per què porten els trens les portes vermelles?</h3>\n<p>Els trens porten pintades les portes de color vermell per millorar l’accessibilitat de les persones amb dificultats de visió. Aquest contrast ajuda a localitzar les portes.</p>\n<p>Els trens de les línies L9 i L10 no ho incorporen per la presència de pantalles/portes i de senyals lluminoses que marquen la situació de la porta.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

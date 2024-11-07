@@ -1,0 +1,30 @@
+{
+  "id": 9529525541532,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/9529525541532.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/9529525541532-Corporatiu-TMB-AMBici",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 9529384811676,
+  "created_at": "2023-07-10T09:16:44Z",
+  "updated_at": "2024-09-02T11:25:00Z",
+  "name": "Corporatiu/TMB: AMBici",
+  "title": "Corporatiu/TMB: AMBici",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-02T11:24:52Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Què és?</strong></p>\n<p>AMBici és la bicicleta compartida disponible en 15 municipis de l'àrea metropolitana de Barcelona (Castelldefels, Cornellà de Llobregat, Esplugues de Llobregat, Molins de Rei, l'Hospitalet de Llobregat, El Prat de Llobregat, Sant Boi de Llobregat, Sant Feliu de Llobregat, Sant Joan Despí, Sant Just Desvern, Viladecans, Gavà, Badalona, Sant Adrià de Besòs i Santa Coloma de Gramenet).</p>\n<p><strong>Quan es va posar en marxa?</strong></p>\n<p>Es va posar en marxa el 30 de gener de 2023.</p>\n<p><strong>Quin tipus de bicicleta s'utilitzen?</strong></p>\n<p>Bicicletes 100% elèctriques d'alta gamma.</p>\n<p><strong>Com funciona?</strong></p>\n<p>Primer t'has de registrar a través de TMB Tickets o des de l'app AMBici amb el teu usuari del JoTMBé i escollir la tarifa.</p>\n<p>Per agafar la bicicleta has de cercar les estacions més properes i consultar la disponibilitat, escanejar el codi QR i agafar la bicicleta.</p>\n<p>Finalment, cal tornar la bicicleta i revisar a l'app que s'ha tornat correctament.</p>\n<p><strong>Quin tipus de tarifa hi ha?</strong></p>\n<p>Abonament <a href=\"https://tickets.tmb.cat/ca/comprar-abonament-ambici/119?type=ITEM\" target=\"_blank\" rel=\"noopener noreferrer\">anual AMBici</a></p>\n<p>Abonament <a href=\"https://tickets.tmb.cat/ca/comprar-abonament-ambici/016?type=PACK\" target=\"_blank\" rel=\"noopener noreferrer\">metropolità AMBici + Bicing tarifa plana</a></p>\n<p>Abonament <a href=\"https://tickets.tmb.cat/ca/comprar-abonament-ambici/017?type=PACK\" target=\"_blank\" rel=\"noopener noreferrer\">metropolità AMBici + Bicing tarifa per ús</a></p>\n<p> </p>\n<p>Web AMBici: <a href=\"https://www.ambici.cat/ca/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.ambici.cat/ca/</a></p>\n<p>Informació addicional:</p>\n<p><a href=\"https://noticies.tmb.cat/sala-de-premsa/lambici-supera-2700-usuaris-1850-desplacaments-comenca-seva-expansio\" target=\"_blank\" rel=\"noopener noreferrer\">https://noticies.tmb.cat/sala-de-premsa/lambici-supera-2700-usuaris-1850-desplacaments-comenca-seva-expansio</a> </p>\n<p><a href=\"https://noticies.tmb.cat/sala-de-premsa/lambici-completa-seu-desplegament-arriba-lhospitalet-de-llobregat\" target=\"_blank\" rel=\"noopener noreferrer\">https://noticies.tmb.cat/sala-de-premsa/lambici-completa-seu-desplegament-arriba-lhospitalet-de-llobregat</a></p>\n<p> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

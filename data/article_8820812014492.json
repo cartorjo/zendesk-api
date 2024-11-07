@@ -1,0 +1,30 @@
+{
+  "id": 8820812014492,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8820812014492.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8820812014492-Bus-c%C3%A0meres",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209100,
+  "created_at": "2023-05-16T07:07:13Z",
+  "updated_at": "2024-08-29T09:23:55Z",
+  "name": "Bus: càmeres",
+  "title": "Bus: càmeres",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-29T09:23:53Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p class=\"MsoNormal\"><strong>Quan tindrà, tota la flota, les càmares instal·lades?</strong></p>\n<p class=\"MsoNormal\">Actualment, tota la flota d'autobusos té instal·lades les càmeres. </p>\n<p class=\"MsoNormal\"><strong>Com es poden visualitzar les imatges?</strong></p>\n<p class=\"MsoNormal\">Des del Centre de Control de Seguretat de Bus es poden visualitzar en temps real les imatges de l’interior dels busos i descarregar al moment qualsevol de les gravacions.</p>\n<p class=\"MsoNormal\"><strong>Quant temps es guarden les imatges?</strong></p>\n<p class=\"MsoNormal\">Per tal de complir amb la normativa legal, les imatges enregistrades es guarden un màxim de 30 dies.</p>\n<p>Més informació: </p>\n<p><a href=\"https://noticies.tmb.cat/sala-de-premsa/tmb-completa-installacio-sistema-de-videovigilancia-flota-dautobusos\">https://noticies.tmb.cat/sala-de-premsa/tmb-completa-installacio-sistema-de-videovigilancia-flota-dautobusos </a></p>\n<p><a href=\"https://noticies.tmb.cat/sala-de-premsa/tmb-completa-installacio-sistema-de-videovigilancia-flota-dautobusos\">https://noticies.tmb.cat/sala-de-premsa/tmb-esta-installant-4500-cameres-de-videovigilancia-tota-flota-dautobusos</a></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

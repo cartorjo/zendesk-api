@@ -1,0 +1,38 @@
+{
+  "id": 360015691940,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360015691940.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360015691940-Metro-ventilaci%C3%B3-a-les-estacions",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2020-08-05T09:53:59Z",
+  "updated_at": "2024-08-19T08:31:14Z",
+  "name": "Metro: ventilació a les estacions",
+  "title": "Metro: ventilació a les estacions",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-19T08:31:11Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Temperatura",
+    "ventilació",
+    "ventiladors",
+    "pou de ventilació",
+    "aire",
+    "aire condicionat",
+    "RESPIRA"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Les estacions tenen ventilació?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Totes les estacions estan ventilades, és a dir, hi ha un circuit de renovació d'aire connectat amb l'exterior a través dels pous de túnels i estacions. </p>\n<h2 id=\"01H7AD5PEVZFDRB5DEN7MTS3MH\" class=\"wysiwyg-text-align-justify\"><strong>Línies convencionals</strong></h2>\n<p class=\"wysiwyg-text-align-justify\"><strong>Per què fa tanta calor a les estacions?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">A les estacions fa més calor que  a l'exterior ja que hi ha importants fonts de calor: els trens (motors, aires condicionats i reòstats de fre), l'equipament de les estacions com l'enllumenat, els motors de les escales mecàniques, la climatització de les dependències tècniques i els centres de transformació, entre d'altres, així com les mateixes persones (més d'un milió cada dia). Aquesta calor es procura extraure-la a l'exterior a través de les obertures existents.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com es ventilen les estacions?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">La ventilació del metro es basa en l'acció de potents ventiladors instal·lats en els pous de ventilació túnel-exterior situats entre les estacions. Aquests ventiladors succionen aire del túnel, extreuen l'aire calent i forcen que entri aire pels accessos i pous de les estacions. A les estacions, els pous de ventilació impulsen aire a les andanes, i conjuntament amb la captació d’aire net dels accessos refrigeren les estacions, garanteixen la renovació de l'aire i milloren el confort del passatge.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Per què les estacions no tenen aire condicionat?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Amb la configuració d'estacions i andanes que hi ha, seria del tot ineficient i insostenible. Les estacions són espais oberts al carrer i al túnel. Anys enrere es va fer una prova a l'estació Sagrada Família de la línia 5, amb resultats desfavorables. El moviment constant de trens a través dels túnels provoca un efecte pistó que trasllada les masses d'aire d'una banda a l'altra de les línies de metro. Així, l'aire que es refrigerés en una estació durant els tres minuts d'interval entre trens seria substituïda per una nova massa d'aire calent empesa pel tren entrant, que caldria refrigerar de nou, i així tot el dia.</p>\n<h2 id=\"01H7AD5PEZ3V07DF7DF9N57V30\" class=\"wysiwyg-text-align-justify\"><strong>Línies automàtiques</strong></h2>\n<p class=\"wysiwyg-text-align-justify\">A les línies 9 i 10 el disseny de la ventilació es va concebre d'una altra manera: els túnels i les estacions tenen pous de ventilació independents, dimensionats per garantir unes condicions ambientals favorables fins i tot a gran profunditat, i per respondre a qualsevol incidència si fos el cas. I tenen una altra particularitat: les portes d'andana (que són d'alçada completa perquè la ventilació de túnel i estació són independents i separades) fan que l'efecte pistó no generi corrents d'aire.</p>\n<h2 id=\"01J4K3HHH9ND89GBFB7WX7NS8M\" class=\"wysiwyg-text-align-justify\"><strong>Prova pilot a l'estació de metro d'Hospital Clínic</strong></h2>\n<p class=\"wysiwyg-text-align-justify\">A l'agost de 2024 s'han instal·lat 12 ventiladors de sostre d'alta eficiència (6 per andana) per rebaixar la temperatura a les andanes i millorar el confort tèrmic del passatge.</p>\n<p class=\"wysiwyg-text-align-justify\">Aquesta millora s'emmarca en el projecte RESPIRA de gestió intel·ligent de la ventilació de la xarxa de Metro, que està actiu des de 2019.</p>\n<p class=\"wysiwyg-text-align-justify\">Més informació: <a href=\"https://noticies.tmb.cat/sala-de-premsa/tmb-installa-ventiladors-de-sostre-andanes-de-lestacio-de-metro-dhospital-clinic\">TMB instal·la ventiladors de sostre a les andanes de l’estació de metro d’Hospital Clínic | TMB Notícies</a></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

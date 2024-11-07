@@ -1,0 +1,33 @@
+{
+  "id": 360015705540,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360015705540.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360015705540-Metro-m%C3%A0quines-Fotomaton",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2020-08-05T12:09:26Z",
+  "updated_at": "2023-11-03T19:23:05Z",
+  "name": "Metro: màquines Fotomaton",
+  "title": "Metro: màquines Fotomaton",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-05-08T10:41:07Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "fotomaton",
+    "Màquines fotos"
+  ],
+  "body": "<p><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/8490618758812\" alt=\"\"></p>\n<p> </p>\n<h3>Contacte</h3>\n<p>Línia gratuïta: 900 103227<br>Línia tradicional: 93 3403212<br>WhatsApp: 620 978584<br>Correu incidències: <a href=\"mailto:servitecbcn@tecnotron.es\">servitecbcn@tecnotron.es</a> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

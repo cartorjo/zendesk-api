@@ -1,0 +1,30 @@
+{
+  "id": 8478010949916,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8478010949916.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8478010949916-T%C3%ADtols-Hola-Barcelona-Travel-Card",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208860,
+  "created_at": "2023-04-18T08:44:35Z",
+  "updated_at": "2024-08-30T10:40:22Z",
+  "name": "Títols: Hola Barcelona Travel Card",
+  "title": "Títols: Hola Barcelona Travel Card",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-30T10:40:11Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<h3 id=\"h_01HKM8CS7FAKS8BJP6NJ52266H\">Què és?</h3>\n<p>Títol unipersonal que permet viatges il·limitats durant 2 dies (48 h), 3 dies (72 h), 4 dies (96 h) o 5 dies (120 h) consecutius des de la primera validació i a qualsevol hora del dia al metro i el bus (TMB), ferrocarril (FGC, zona 1), funicular de Montjuïc, tramvia (TRAM) i trens de rodalies (Rodalies de Catalunya, zona 1). També inclou el desplaçament d'anada i tornada amb la L9S de metro.</p>\n<p>Telefèric de Montjuïc no inclòs.</p>\n<h3 id=\"h_01HKM8CS7F4PNGVAZ7G4RM0781\">Quin preu té?</h3>\n<p>A partir de l'1 de gener de 2024:</p>\n<table style=\"width: 125.143%; height: 124px;\">\n<tbody>\n<tr>\n<td colspan=\"4\">PREUS</td>\n<td colspan=\"4\">PREUS AMB DESCOMPTE (10% a https://www.holabarcelona.com/ca)</td>\n</tr>\n<tr>\n<td>2 dies (48 h)</td>\n<td>3 dies (72 h)</td>\n<td>4 dies (96 h)</td>\n<td>5 dies (120 h)</td>\n<td>2 dies (48 h)</td>\n<td>3 dies (72 h)</td>\n<td>4 dies (96 h)</td>\n<td>5 dies (120 h)</td>\n</tr>\n<tr>\n<td>17,50€</td>\n<td>25,50€</td>\n<td>33,30€</td>\n<td>40,80€</td>\n<td>15,75€</td>\n<td>22,95€</td>\n<td>29,97€</td>\n<td>36,75€</td>\n</tr>\n</tbody>\n</table>\n<h4 id=\"h_01HKM8CS7FFHKZ65BGEDDEM8XZ\"><span style=\"font-size: 1.2em; font-weight: 600;\">Fins quan es vàlida?</span></h4>\n<p>Les comprades amb tarifa 2023, són vàlides fins el 30 d'abril de 2024.</p>\n<h3 id=\"h_01HKM8CS7FST5VRM6QNGVP5Y5S\" class=\"title title--2\">On la puc comprar?</h3>\n<div class=\"content u-spaced--bottom\">\n<ul>\n<li>Distribuïdores automàtiques de la xarxa de metro de TMB.</li>\n<li>Web <a href=\"https://tickets.tmb.cat/ca/inici\" target=\"_blank\" rel=\"noopener noreferrer\">TMB</a> i TMB App.</li>\n<li>Web <a href=\"https://www.holabarcelona.com/ca\" target=\"_blank\" rel=\"noopener noreferrer\">Hola Barcelona</a>, amb 10% de descompte.</li>\n</ul>\n<h3 id=\"h_01HKM8CS7GV2FPKFDWVSC2WJK6\">Què faig, si la perdo o la roben?</h3>\n<p>En cas de pèrdua o robatori, no es pot fer cap tipus de compensació.</p>\n<h3 id=\"h_01HKM8CS7G6BAQ18EFTBX9S9WS\">Què faig, si és defectuosa?</h3>\n<p>Si es troba defectuós, es pot demanar un bescanvi al agents d'atenció de les estacions de metro, als Punts TMB i als conductors de bus. Per poder fer el bescanvi s'ha de poder llegir: el tipus de títol i la data de caducitat.</p>\n<p>Si s'ha fet un mal ús del títol, no es pot fer cap tipus de bescanvi. </p>\n<h3 id=\"h_01HKM8CS7GBWQ191STZ6G1RE10\">Què faig, si es queda embussada a una validadora?</h3>\n<p>Si el títol es queda a una de les màquines validadores, el client ha de contactar amb el personal de l'estació a travès dels intèrfons perquè li pugui treure el títol. Si no ho fa o si l'agent no pot treure el títol, ha de fer una reclamació aportant el màxim de dades possibles.</p>\n</div>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

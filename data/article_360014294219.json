@@ -1,0 +1,35 @@
+{
+  "id": 360014294219,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014294219.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014294219-T%C3%ADtols-T-escolar",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208780,
+  "created_at": "2020-06-04T14:24:01Z",
+  "updated_at": "2024-09-02T11:12:59Z",
+  "name": "Títols: T-escolar",
+  "title": "Títols: T-escolar",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-02T11:12:55Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "títol",
+    "T-escolar",
+    "escoles",
+    "grups"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Què és?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">És un títol de dos viatges integrats a  la xarxa de metro (excepte a les estacions de metro Aeroport T1 i Aeroport T2 de la línia L9 Sud), els autobusos regulars de TMB, les línies urbanes d’FGC, el Tram, els autobusos TUSGSAL i els autobusos Mohn. No és vàlida per a Rodalies de Catalunya. Només es permet viatjar amb aquest bitllet a grups escolars en sortides col·lectives i amb nens i nenes de fins a 16 anys i els monitors o les monitores que els acompanyen.</p>\n<p><strong>Quin preu té?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">1,10€ a partir de l'1 de setembre de 2024. La nova sèrie serà \"E24\".</p>\n<p><strong>Quina validesa té?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">La T-escolar té una data de caducitat diferent a la resta de títols: 3 mesos des de que finalitza el període tarifari (el període tarifari va des de 01/09/X al 31/08/X+1). </p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Es poden fer devolucions?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Es poden fer devolucions fins a 15 dies des de la data de venda.</p>\n<p class=\"wysiwyg-text-align-justify\">Les T-escolars sèrie Z tenen índex de tarificació del curs 2022-2023 i el seu període tarifari va finalitzar el 31 d'agost de 2023. Per tant, no es poden fer devolucions ni canvis de tarifa.</p>\n<p class=\"wysiwyg-text-align-justify\">Les T-escolars sèrie E23 tenen índex de tarificació del curs 2023-2024 i el seu període tarifari va finalitzar el 31 d'agost de 2024. Per tant, es poden fer devolucions dintre dels 15 primers posteriors a la venda i fer canvi de tarifa fins al 30 de novembre de 2024. Validesa de 3 mesos.</p>\n<p><strong>On la puc comprar?</strong></p>\n<ul>\n<li>Punts TMB</li>\n</ul>\n<p>Qualsevol centre educatiu, incloent-hi centres d’esplai, poden adquirir la T-escolar. Cal sol·licitar prèviament l’acreditació a l’IMEB (Institut Municipal d’Educació de Barcelona) (93.402.36.63) i presentar-la al fer la compra.</p>\n<p>Si es vol <strong>factura</strong> cal comunicar-ho al moment de la compra.</p>\n<p><strong>Títols defectuós</strong></p>\n<p>Si es troba defectuós, es pot demanar un bescanvi al agents d'atenció de les estacions de metro, als Punts TMB i als conductors de bus. Per poder fer el bescanvi s'ha de poder llegir: el tipus de títol i viatges realitzats.</p>\n<p>Si s'ha fet un mal ús del títol, no es pot fer cap tipus de bescanvi. </p>\n<p><strong>Títol embussat</strong></p>\n<p>Si el títol es que da a una de les màquines validadores, el client ha de contactat amb el personal de l'estació a travès dels intèrfons perquè li pugui treure el títol. Si no ho fa o si l'agent no pot treure el títol, ha de fer una reclamació aportant el màxim de dades possibles. </p>\n<p><strong>Com contacto amb l'IMEB?</strong></p>\n<p>Plaça d’Espanya 5</p>\n<p>Telèfon: 93 402 36 63 / 93 402 63 36 56</p>\n<p>Correu electrònic: <a href=\"mailto:imebatencio@bcn.cat\">imebatencio@bcn.cat</a></p>\n<p>Horari: <a href=\"https://guia.barcelona.cat/es/detall/punt-d-atencio-al-ciutada-institut-municipal-d-educacio-de-barcelona_98131091503.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://guia.barcelona.cat/es/detall/punt-d-atencio-al-ciutada-institut-municipal-d-educacio-de-barcelona_98131091503.html</a></p>\n<p>Web: <a href=\"https://ajuntament.barcelona.cat/educacio/ca\" target=\"_blank\" rel=\"noopener noreferrer\">https://ajuntament.barcelona.cat/educacio/ca</a></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

@@ -5,7 +5,10 @@ import { getBase64Token } from './utils/auth';
 const base64Token = getBase64Token();
 
 const testCredentials = async () => {
-    const url = `https://${config.zendeskSubdomain}.zendesk.com/api/v2/tickets/1.json`;
+    const url = `https://${config.zendeskSubdomain}.zendesk.com/api/v2/tickets.json`;
+
+    console.log('Testing credentials with URL:', url);
+    console.log('Authorization header:', `Basic ${base64Token}`);
 
     try {
         const response = await axios.get(url, {
@@ -14,9 +17,17 @@ const testCredentials = async () => {
             }
         });
 
-        console.log('Credentials are valid. Retrieved ticket:', response.data);
+        console.log('Credentials are valid. Retrieved tickets:', response.data);
     } catch (error) {
-        console.error('Error testing credentials:', error);
+        if (axios.isAxiosError(error)) {
+            console.error('Error testing credentials:', error.message);
+            if (error.response) {
+                console.error('Response status:', error.response.status);
+                console.error('Response data:', error.response.data);
+            }
+        } else {
+            console.error('Unexpected error:', error);
+        }
     }
 };
 

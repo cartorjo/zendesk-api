@@ -1,0 +1,33 @@
+{
+  "id": 360017589039,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360017589039.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360017589039-Corporatiu-TMB-apps-beacons-NaviLens",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209160,
+  "created_at": "2020-11-18T10:02:58Z",
+  "updated_at": "2024-05-28T10:48:40Z",
+  "name": "Corporatiu/TMB: apps: beacons, NaviLens",
+  "title": "Corporatiu/TMB: apps: beacons, NaviLens",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-05-28T10:48:35Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Accessibilitat",
+    "beacons"
+  ],
+  "body": "<h3 id=\"h_01HYZD1P2NB0647BT2ZVRZKJBR\">Beacons</h3>\n<p><strong>Què és?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">És un sistema tecnològic que ajuda les persones amb discapacitat visual perquè puguin ser més autònomes en les 2.600 parades existents el moment de localitzar el bus i pujar-hi. El sistema, operatiu des de setembre de 2020, es basa en la interacció entre balises electròniques (també anomenades <em>beacons</em>) i els telèfons mòbils de les persones usuàries.</p>\n<p class=\"wysiwyg-text-align-justify\">Per fer-lo servir només cal disposar d’un telèfon mòbil amb sistema operatiu Android o iOS i amb l’aplicació TMB App instal·lada.</p>\n<p class=\"wysiwyg-text-align-justify\">Dins de la configuració de l’aplicació, a les opcions d’accessibilitat s’ha creat una nova funcionalitat anomenada “opcions de guiatge a parada” que activa la <strong>notificació, mitjançant missatges de veu,</strong> de la situació del pròxim autobús, la línia a què pertany, el seu número d’identificació, la proximitat a la parada i si està aturat i amb les portes obertes. A més, l’usuari té la possibilitat d’<strong>enviar un missatge al conductor</strong> perquè tingui en compte que a la pròxima parada hi ha una persona amb discapacitat visual que vol pujar al vehicle. En una parada doble, això pot voler dir que l’autobús haurà d’aturar-se en els dos punts de parada.</p>\n<p class=\"wysiwyg-text-align-justify\">Accés a vídeo explicatiu a: <a class=\"ytp-share-panel-link ytp-no-contextmenu\" href=\"https://youtu.be/4Y-cIcHD_ig\" target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Compartir enlace: https://youtu.be/4Y-cIcHD_ig\">https://youtu.be/4Y-cIcHD_ig</a></p>\n<h3 id=\"h_01HYZD1P2NRYFSNRVF638RXRAP\">NaviLens</h3>\n<p><strong>Què és?</strong></p>\n<p>NaviLens és un sistema d'orientació per a persones amb discapacitat visual al metro i al bus.</p>\n<p>Amb l'aplicació NaviLens, un mòbil pot capturar de manera molt eficient les etiquetes intel·ligents NaviLens, sense que calgui saber on són exactament. Així, les persones amb dificultats visuals poden llegir la senyalística de les xarxes de transport públic, tant en les parades d'autobús com a les estacions de metro, rebre avisos i altres orientacions precises per moure's amb seguretat.</p>\n<p>En una parada de bus, l'aplicació NaviLens informa l'usuari del nom i el codi de la parada, les línies que hi passen, la destinació de cadascuna, el temps previst d'arribada i les possibles alteracions del servei. En una estació de metro, cada espai està etiquetat amb la seva descripció (accés, vestíbul, zona de venda, línia de peatge, escala, ascensor, andana, intèrfon, punt d'embarcament ...), però a més l'aplicació relaciona els elements entre ells i calcula distàncies respecte de l'usuari, per permetre la navegació autònoma de les persones amb discapacitat visual.</p>\n<p>Això és possible gràcies a una sèrie de característiques tecnològiques úniques dels codis <em>ddtags</em>, que poden <strong>llegir-se en moviment</strong>, a una <strong>distància molt superior</strong> respecte dels codis QR, fins i tot amb una <strong>perspectiva molt angulada</strong> respecte a l’etiqueta i sense que calgui enfocar-hi la càmera del dispositiu mòbil. Un cop llegida, la informació continguda a l'etiqueta és relatada en format veu en l'idioma configurat al dispositiu de l'usuari, contribuint d’aquesta manera a l'accessibilitat universal.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

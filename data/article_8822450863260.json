@@ -1,0 +1,30 @@
+{
+  "id": 8822450863260,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8822450863260.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8822450863260-Bus-sem%C3%A0fors-parades-fora-de-lloc-etc",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209140,
+  "created_at": "2023-05-16T08:42:59Z",
+  "updated_at": "2023-11-03T19:23:26Z",
+  "name": "Bus: semàfors, parades fora de lloc, etc.",
+  "title": "Bus: semàfors, parades fora de lloc, etc.",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-06-16T12:50:59Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Per què no es posen parades just abans d'un semàfor?</strong></p>\n<p><span lang=\"CA\">Molts clients de bus observen que els desplaçaments amb bus són lents perquè el bus ha de parar a les parades reglamentàries sol·licitades i als semàfors. Per reduir el temps de parada, proposen que la parada se situï just abans del semàfor. Aquesta mesura dificultaria la circulació de la via, perquè la resta de vehicles hauria d’esperar a que el bus avancés per poder continuar circulant. Ara, la distància entre les parades (en general) i el semàfor permet que els vehicles que circulen darrera del bus puguin maniobrar, avançar-lo, situar-se davant del bus aturat i continuar la marxa.</span></p>\n<p><strong>Els conductors de bus poden escoltar la ràdio?</strong></p>\n<p>Els conductors de bus no poden escoltar la ràdio, ni utilitzar cap aparell audiovisual que no formi part de l’equipament del vehicle.</p>\n<p><strong>Els conductors de bus poden efectuar parada fora de la zona de parada?</strong></p>\n<p>No, un cop els conductors de bus han iniciat la marxa després d'efectuar la parada reglamentària no poden parar un altre cop.</p>\n<p><strong>Qui pot fer servir la rampa dels busos?</strong></p>\n<p class=\"MsoNormalCxSpFirst\">Les persones que es desplacen amb cadira de rodes o duen un cotxet de bessons.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

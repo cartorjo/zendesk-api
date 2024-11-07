@@ -1,0 +1,40 @@
+{
+  "id": 360013909720,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360013909720.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360013909720-T%C3%ADtols-Sistema-Tarifari-Integrat",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208880,
+  "created_at": "2020-05-21T14:35:59Z",
+  "updated_at": "2024-08-30T10:01:05Z",
+  "name": "Títols: Sistema Tarifari Integrat",
+  "title": "Títols: Sistema Tarifari Integrat",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-30T10:01:00Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "zones",
+    "corona",
+    "zona",
+    "corones",
+    "desplaçament",
+    "viatge",
+    "recorregut",
+    "nombre",
+    "número"
+  ],
+  "body": "<p><strong>Què és el STI?</strong></p>\n<p>El sistema tarifari integrat permet utilitzar diferents mitjans de transport (metro, autobusos urbans, metropolitans i interurbans, tranvia, Ferrocarrils de la Generalitat de Catalunya i Rodalies de Catalunya) necessaris per fer un desplaçament amb un únic abonament de transport.</p>\n<p><strong>Quants transbordaments es poden fer?</strong></p>\n<p>En les targetes de viatge il·limitats no hi ha cap limitació.</p>\n<p>En les targetes de viatges limitats, a cada viatge es poden fer un màxim de 4 validacions i agafar fins a 4 mitjans de transport (1a validació + 3 validacions de transbordaments) sempre que entre la primera i la darrera validació no se superi un determinat interval de temps que varia segons el nombre de zones de la targeta: en el cas d'una zona és 1h 15min i augmenta en 15 minuts per a cada zona de més.</p>\n<p><strong>S'admeten tots els transbordaments?</strong></p>\n<p>No, un mateix viatge no pot incloure més d’una etapa en:</p>\n<p>Metro<br>Rodalies<br>TRAM<br>Una mateixa línis de bus<br>Línia FGC* Barcelona Vallés<br>Línia FGC* Llobregat Anoia<br>* Es poden fer dues validacions a FGC: una al tram del Vallès i una altra al tram del Llobregat. Per exemple: es pot agafar amb un sol viatge FGC a Av. Tibidabo fins a Catalunya, L1 a Espanya i FGC a Sant Boi.</p>\n<p><strong>Quins municipis integren el STI?</strong></p>\n<p>El STI està integrat per 296 municipis. Els podeu consultar a: <a href=\"https://www.tmb.cat/ca/tarifes-metro-bus-barcelona/mapa-zones\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tmb.cat/ca/tarifes-metro-bus-barcelona/mapa-zones</a> </p>\n<p><strong>Com puc calcular les zones entre dos municipis?</strong></p>\n<p>El nombre de zones que cal comptar per a un recorregut es determina segons el nombre de zones tarifàries per on es transita durant el desplaçament.</p>\n<p>Es poden calcular el nombre de zones al <a href=\"https://cercador.atm.cat/?lang=ca\" target=\"_blank\" rel=\"noopener noreferrer\">comptador de zones del web de l'ATM</a></p>\n<p><strong>Què és la tarifa metropolitana?</strong></p>\n<p>La tarifa metropolitana consisteix en l’ús dels títols de transport d’1 zona per als desplaçaments en transport públic entre els 36 municipis de l’Àrea Metropolitana de Barcelona.</p>\n<p><strong>Quins són aquests 36 municipis?</strong></p>\n<p>Badalona (1) Badia del Vallès (2C) Barberà del Vallès (2C) Barcelona (1) Begues (2A) Castellbisbal (2B) Castelldefels (1) Cerdanyola del Vallès (2C) Cervelló (2B) Corbera de Llobregat (2B) Cornellà de Llobregat (1) Esplugues de Llobregat (1) Gavà (1) l'Hospitalet de Llobregat (1) Molins de Rei (2B) Montcada i Reixac (1) Montgat (1) La Palma de Cervelló (2B) Pallejà (2B) El Papiol (2B) El Prat de Llobregat (1) Ripollet (2C) Sant Adrià de Besòs (1) Sant Andreu de la Barca (2B) Sant Boi de Llobregat (1) Sant Climent de Llobregat (2B) Sant Cugat del Vallès (2C) Sant Feliu de Llobregat (1) Sant Joan Despí (1) Sant Just Desvern (1) Sant Vicenç dels Horts (2B) Santa Coloma de Cervelló (2B) Santa Coloma de Gramenet (1) Tiana (1) Torrelles de Llobregat (2B) Viladecans (1).</p>\n<p><strong>A quins títols s'aplica la tarifa metropolitana?</strong></p>\n<p>Els títols de transport on s’aplica la tarifa metropolitana són el bitllet senzill i els abonaments integrats de l’ATM (T-usual, T-casual, T-grup, T-familiar, T-dia, T-aire, T-jove, i totes les modalitats d’abonaments bonificats per a famílies monoparentals o nombroses i persones en situació d’atur). No s’aplica a la T-16.</p>\n<p>També s’aplica als títols socials: targeta rosa de tarifa gratuïta, targeta rosa reduïda més T4 i passi metropolità d’acompanyant. Aquests abonaments es poden fer servir al transport públic de la corona 1 i a FGC en desplaçaments dintre de l’ambit de la tarifa metropolitana.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

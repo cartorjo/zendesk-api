@@ -1,0 +1,35 @@
+{
+  "id": 4404303917202,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4404303917202.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4404303917202-T-mobilitat-Adquisici%C3%B3-suport-m%C3%B2bil",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003737660,
+  "created_at": "2021-07-26T15:05:28Z",
+  "updated_at": "2024-05-09T11:20:16Z",
+  "name": "T-mobilitat: Adquisició suport mòbil",
+  "title": "T-mobilitat: Adquisició suport mòbil",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-05-09T11:20:05Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "T-mobilitat",
+    "compra",
+    "adquisició",
+    "suport mòbil"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Què és?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">L’adquisició de suport mòbil consisteix en el pagament únic de la subscripció per tenir dret a fer servir el mòbil com a suport de T-mobilitat.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quin és el preu del suport mòbil?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Aquest pagament únic té un cost únic d'1€.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què es necessita per poder tenir el suport mòbil?</strong></p>\n<p>- Disposar d'un dispositiu mòbil amb sistema operatiu Android, versió 6 o superior, amb NFC.</p>\n<p>- TMB App.</p>\n<p>- App Cartera electrònica.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Per quins canal es pot adquirir un suport mòbil?</strong></p>\n<table class=\"wysiwyg-text-align-justify\" style=\"border-collapse: collapse; width: 100%; height: 54px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td class=\"wysiwyg-text-align-center\" style=\"height: 10px; width: 80.7861%;\" colspan=\"5\">\n<strong>Canals</strong><strong><br></strong>\n</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td class=\"wysiwyg-text-align-center\" style=\"width: 17.0953%; height: 22px;\">Presencial*</td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 16.8095%; height: 22px;\">Digital*</td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 15.8096%; height: 22px;\">Telefònic*</td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 18.6905%; height: 22px;\">Web</td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 12.3812%; height: 22px;\">App</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td class=\"wysiwyg-text-align-center\" style=\"width: 17.0953%; height: 22px;\">\n<img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/10958521931804\" alt=\"cruz_roja.jpg\" width=\"22\" height=\"22\"> </td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 16.8095%; height: 22px;\">\n<img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/10958521931804\" alt=\"cruz_roja.jpg\" width=\"22\" height=\"22\"> </td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 15.8096%; height: 22px;\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/10958521931804\" alt=\"cruz_roja.jpg\" width=\"22\" height=\"22\"></td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 18.6905%; height: 22px;\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/10958521931804\" alt=\"cruz_roja.jpg\" width=\"22\" height=\"22\"></td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 12.3812%; height: 22px;\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/10958521938204\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n</tr>\n</tbody>\n</table>\n<p class=\"wysiwyg-text-align-justify\">*Si un usuari fa una consulta des del canal digital, telefònic i presencial s'informarà del tràmit i s'acompanyarà al client en l'adquisició a través de l'App.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Per a què serveixen aquestes dues Apps?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">A través de la TMB App el client podrà accedir a:</p>\n<p>- Totes les funcionalitats que ja ofereix en l’actualitat (informació de serveis, subscripció a alteracions, etc.)</p>\n<p>- Càrrega de títols, recàrrega de títols i modificació de la configuració del títol o del suport PVC en diferit (funcionament homòleg al de la web)</p>\n<p>- Suport mòbil: càrrega, gestió de títols, gestió de suports i validació amb el mòbil via NFC.</p>\n<p class=\"wysiwyg-text-align-justify\">L'App Cartera electrònica és una aplicació purament tècnica que no disposa de cap tipus d’interfície d’usuari. Per tant, el client no ha d’interactuar amb ella. Tanmateix, sí que és imprescindible tenir-la instal·lada si el client desitja utilitzar el seu mòbil com a suport. Aquesta aplicació és única en tot el sistema i necessària per a tots els operadors que poden gestionar el suport mòbil (ATM, FGC i TMB).</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què s'ha de fer per obtenir el suport mòbil?</strong></p>\n<p>1. Descarregar TMB App.</p>\n<p>2. Estar registrat a JoTMBé, i tenir vinculades T-mobilitat i JoTMBé.</p>\n<p>3. Accedir a TMB App/ T-mobilitat/ \"Mòbil\".</p>\n<p>4. Polsar sobre \"Activa el teu suport mòbil\". En aquest procés, es descarregarà la cartera electrònica, i l'usuari haurà de fer el pagament d'1 euro abans de carregar un títol de viatge.</p>\n<p>5. Carregar el títol de viatge que l'usuari desitgi fer servir.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quants títols pot contenir?</strong></p>\n<p>En l'actualitat, el suport mòbil només pot contenir un tipus de títol, amb els seus dos contenidors de recàrrega.</p>\n<p><strong>Un usuari ha de pagar la subscripció si desinstal·la i instal·la la Cartera electrònica, en el mateix o un altre dispositiu?</strong></p>\n<p>No. El pagament de l'1€ es realitza només un cop, i està associat a l'alta de client T-mobilitat. Si l'usuari desinstal·la i instal·la l'App Cartera electrònica, bé al mateix dispositiu, bé en un altre, no ha de tornar ha pagar. Només ha de tornar a pagar si dona de baixa el seu compte de client T-mobilitat, es dona novament d'alta i vol fer servir (de nou) el suport virtual. </p>\n<h2 id=\"h_01HDDYRW8JG6JDXQ3JQM1MKKM2\"><strong>Consulta digital o telefònica</strong></h2>\n<p><strong>Què ha de fer l'agent per atendre la consulta?</strong></p>\n<p>A més de resoldre les possibles consultes relacionades, donarà informació sobre el tràmit:</p>\n<p>- Informar que ha de tenir descarregades la TMB App i l'app Cartera electrònica.</p>\n<p>- Informar que ha d'estar registrat al JoTMBé i donat d'<a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/360019352439\" target=\"_self\">alta com a client</a>.</p>\n<p>- Informar de les passes a seguir per fer la compra (a dalt).</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

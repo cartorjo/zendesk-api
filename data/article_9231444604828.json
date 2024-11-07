@@ -1,0 +1,30 @@
+{
+  "id": 9231444604828,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/9231444604828.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/9231444604828-Metro-horaris",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 9231037676444,
+  "created_at": "2023-06-16T10:52:17Z",
+  "updated_at": "2024-08-30T10:57:45Z",
+  "name": "Metro: horaris",
+  "title": "Metro: horaris",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-30T10:57:43Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Quin és l'horari del metro?</strong></p>\n<p>El metro de Barcelona obre cada dia a les 5 del matí.</p>\n<p>Els primers trens surten a les 5 h de cada extrem de les línies de metro i també en surten d'algunes estacions intermitges.</p>\n<p>Les hores de finalització del servei varien en funció del tipus de dia. </p>\n<p>- Feiners (de dilluns a dijous): fins a les 24.00 h.</p>\n<p>- Divendres i vigílies de festiu: fins a les 2.00 h.</p>\n<p>- Dissabtes: servei continu tota la nit.</p>\n<p>- Diumenges i festius entre setmana: fins a les 24.00 h.</p>\n<p>- 23 de juny (revetlla de Sant Joan): servei continu tota la nit.</p>\n<p>- 16 d'agost (Festes de Gràcia): servei continu tota la nit del 16 al 17 d'agost.</p>\n<p>- 24 de desembre: fins a les 23.00 h.</p>\n<p>Els últims trens surten de cada extrem de les línies de metro a l'hora de finalització indicada.</p>\n<p><strong>Totes les estacions tanquen a la mateixa hora?</strong></p>\n<p>No, les estacions Mas Blau, Mercabarna i Parc Logístic (L9 Sud) i ZAL | Riu Vell, Ecoparc i Port Comercial | La Factoria (L10 Sud) tenen cada dia el mateix horari d'obertura: de 5.00 a 24.00 hores.</p>\n<p>El 24 de desembre tanquen a les 23.00 hores.</p>\n<p><strong>Es prolonga el servei a causa d'esdeveniments a la ciutat?</strong></p>\n<p>L'horari de servei és fix i no es prolonga si no hi ha petició i acord amb el promotor dels actes sobre el cost.</p>\n<p><strong>Quan canvia d'horari el Funicular?</strong></p>\n<p>El canvi d’horari del Funicular d'estiu a hivern pren com a referència el canvi d’hora europeu (últim cap de setmana de març i octubre). Tenint en compte que el canvi d’hora es realitza de dissabte a diumenge, el canvi d’hora del Funicular es fa de diumenge a dilluns.</p>\n<p>Les dates actualitzades es poden consultar al web: <a href=\"https://www.tmb.cat/ca/barcelona/metro/-/lineametro/FM\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tmb.cat/ca/barcelona/metro/-/lineametro/FM</a> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 360015691140,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360015691140.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360015691140-Metro-no-puc-esperar",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2020-08-05T09:25:04Z",
+  "updated_at": "2023-11-03T19:23:05Z",
+  "name": "Metro: no puc esperar",
+  "title": "Metro: no puc esperar",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-06-16T12:12:41Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "No puc esperar",
+    "lavabo",
+    "accés lavabo",
+    "lavabo per a usuaris"
+  ],
+  "body": "<p><strong>Què és?</strong></p>\n<p>Les persones acreditades tindran <strong>accés als WC</strong> d'ús intern en vuit estacions de la xarxa per guanyar autonomia i qualitat de vida. Els lavabos estan senyalitzats amb la següent imatge:</p>\n<p><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/4415483991570\" alt=\"blobid0.png\"></p>\n<p><strong>Què es necessita per fer-ho servir?</strong></p>\n<p>És necessari que l'usuari tingui una targeta que emet l'ACCU Catalunya.</p>\n<p><strong>Què permet la targeta?</strong></p>\n<p>Permet<strong> l’ús gratuït dels lavabos als pacients portadors de la targeta</strong> <em>No puc esperar!:</em> persones amb malalties inflamatòries intestinals no contagioses, pacients ostomitzats o colectomitzats, pacients sotmesos a una cirurgia per un càncer de recte i d’altres que els metges col·laboradors acreditin.</p>\n<p><strong>Quines estacions tenen aquest servei?</strong></p>\n<p>TMB permet a les persones acreditades l’accés als lavabos d’ús intern de <strong>vuit estacions de metro:</strong></p>\n<ul>\n<li>\n<strong>Línia 1</strong> (Espanya, Catalunya i Glòries).</li>\n<li>\n<strong>Línia 4 </strong>(Barceloneta).</li>\n<li>\n<strong>Línia 5</strong> (Plaça de Sants, Diagonal, Sagrada Família i La Sagrera).</li>\n</ul>\n<p><strong>Què s'ha de fer per accedir al WC?</strong></p>\n<p>L’agent assignat a l’estació s’ocuparà d’atendre les peticions i acompanyar els clients a l’interior de les dependències.</p>\n<p><strong>On es pot trobar més informació?</strong></p>\n<p>Al web de No puc esperar!: <a href=\"http://www.nopucesperar.cat/\">http://www.nopucesperar.cat/</a> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 4409210871058,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4409210871058.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4409210871058-Metro-desfibril-ladors",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2021-11-03T16:03:11Z",
+  "updated_at": "2023-11-03T19:23:17Z",
+  "name": "Metro: desfibril·ladors ",
+  "title": "Metro: desfibril·ladors ",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-06-16T12:11:03Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "estacions",
+    "Desfibril·ladors",
+    "Metro"
+  ],
+  "body": "<p><strong>A quines estacions de metro hi ha desfibril·ladors?</strong></p>\n<p>Des de principis de 2022, totes les estacions de la xarxa estan cardioprotegides. </p>\n<p><strong>Els agents saben utilitzar els desfibril·ladors?</strong></p>\n<p>S’està formant el personal per fer-los servir adequadament.</p>\n<p><strong>On estan situats els desfibril·ladors a les estacions?</strong></p>\n<p>Els desfibril·ladors van col·locats dins d’unes caixes situades al sector central de les andanes (el que a la xarxa de metro s’anomena via 1), o bé a l’andana central en cas que l’estació en tingui, i estan equipats amb un sistema de geolocalització per tenir-los ubicats permanentment i detectar si se n’està fent ús. Junt amb la instal·lació de l’aparell es col·loca també senyalització en diferents punts de l’estació per ajudar a trobar-los en cas de necessitat.</p>\n<p><strong>Els pot fer servir qualsevol persona? </strong></p>\n<p>Són aparells senzills, aptes perquè els faci servir qualsevol persona sense coneixements sanitaris, només cal seguir les instruccions sonores que el mateix aparell va donant.</p>\n<p><strong>Què s’ha de fer en el cas que es necessiti?</strong></p>\n<p>Si se sospita que un viatger està patint una aturada cardíaca, el primer que cal fer és prémer el botó SOS de l’intèrfon situat al costat de la caixa on hi ha el desfibril·lador. D’aquesta manera, des del Centre de Control de Metro s’avisa la central d’emergències perquè els serveis mèdics es desplacin a l’estació. A més, un polsador permet comunicar directament amb el 112. Després, s’ha d’extreure el desfibril·lador i seguir les instruccions sonores que el mateix aparell va donant.</p>\n<p><strong>De quin tipus de desfibril·lador es disposa?</strong></p>\n<p>Els aparells són del tipus desfibril·lador extern automàtic (DEA), que diagnostica i tracta l'aturada cardiorespiratòria causada per una fibril·lació ventricular o una taquicàrdia ventricular sense pols.</p>\n<p><strong>Com se sap si s'han utilitzat o s'està utilitzant si el client no ho comunica?</strong></p>\n<p>Porten un sistema de geolocalització per tenir-los ubicats permanentment i detectar si se n'està fent ús.</p>\n<p> </p>\n<p>Més informació: <a href=\"https://www.tmb.cat/ca/sobre-tmb/millores-xarxa-transport/altres-millores/desfibrilladors-xarxa-metro\">https://www.tmb.cat/ca/sobre-tmb/millores-xarxa-transport/altres-millores/desfibrilladors-xarxa-metro</a> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

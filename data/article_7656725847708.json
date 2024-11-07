@@ -1,0 +1,33 @@
+{
+  "id": 7656725847708,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/7656725847708.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/7656725847708-T-mobilitat-incid%C3%A8ncia-amb-alta-de-client-adult-com-a-gestionat",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003814179,
+  "created_at": "2023-02-07T13:29:45Z",
+  "updated_at": "2024-10-08T10:43:23Z",
+  "name": "T-mobilitat: incidència amb alta de client adult com a gestionat",
+  "title": "T-mobilitat: incidència amb alta de client adult com a gestionat",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-10-08T10:43:23Z",
+  "user_segment_id": null,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "T-mobilitat",
+    "incidència",
+    "alta adult",
+    "client gestionat"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Què és?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">És una incidència que té lloc quan un adult es dona d’alta, però el sistema el registra com a menor vinculat.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>En quins canals té lloc?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Aquesta incidència pot tenir lloc tant si el client es dona d’alta presencialment, com si ho fa online.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com ho visualitza el client?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Si l’alta es fa online, el client, un cop rep el mail de confirmació de l’alta, no podrà accedir al seu compte. El sistema l’ha registrat com a menor vinculat, i, per tant, el seu perfil és el d’un menor d’edat. Les gestions només les pot fer un client gestor, que, en aquest cas, no existeix.</p>\n<p class=\"wysiwyg-text-align-justify\">Si l’alta es fa presencialment, o es busca al sistema el client que ho ha fet online, a TPW apareix un símbol d’exclamació que no permet accedir a la seva fitxa. Tot i que dona el missatge que és un client gestionat, no apareix el document d’identitat de cap client gestor.</p>\n<p class=\"wysiwyg-text-align-justify\">S’ha creat un compte de menor, sense que s’hagi seguit el procediment per crear un client vinculat.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què pot fer l’agent d’atenció? <span class=\"wysiwyg-color-red\">(pendent)</span></strong></p>\n<p class=\"wysiwyg-text-align-justify\">Com no es pot accedir a la fitxa, no pot fer cap acció: ni donar de baixa ni adquirir targeta personalitzada.</p>\n<p class=\"wysiwyg-text-align-justify\">Ha de comunicar la incidència a l’equip de BackOffice (suportoae@tmb.cat), per tramitar amb SOC la seva resolució.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com ho ha de comunicar l’agent d’atenció? <span class=\"wysiwyg-color-red\">(pendent)</span></strong></p>\n<p class=\"wysiwyg-text-align-justify\">A través d’un correu electrònic a <a href=\"mailto:suportoae@tmb.cat\">suportoae@tmb.cat</a>, l’agent informa breument de la incidència, aportant captura de pantalla del que es visualitza a TPW, i les dades personals del client (nom i cognoms, correu electrònic i número del document d’identitat).</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què ha de fer BackOffice per solucionar la incidència? <span class=\"wysiwyg-color-red\">(pendent)</span></strong></p>\n<p class=\"wysiwyg-text-align-justify\">BackOffice comunica la incidència a SOC, a través de Minsait. Un cop rebi la resposta de SOC que la incidència està resolta, es comunica amb l’usuari.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com té lloc la comunicació amb el client?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">A través del mateix canal de comunicació que va emprar l’usuari per comunicar-se. Si ho va fer presencialment, el canal telefònic contactarà amb l’usuari per comunicar-hi la resolució.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quin és l’origen de la incidència?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Els equips tècnics d’ATM i SOC estan treballant per trobar-hi l’origen, així com per implementar els correctius i evolutius necessaris.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quant de temps es requereix per trobar una solució individualitzada?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Mentre es troba una solució global, aquesta incidència ha de rebre un tractament individualitzat.</p>",
+  "user_segment_ids": []
+}

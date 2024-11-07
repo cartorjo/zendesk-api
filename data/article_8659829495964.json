@@ -1,0 +1,30 @@
+{
+  "id": 8659829495964,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8659829495964.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8659829495964-Bus-horaris",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209020,
+  "created_at": "2023-05-03T06:50:02Z",
+  "updated_at": "2024-08-29T09:18:21Z",
+  "name": "Bus: horaris",
+  "title": "Bus: horaris",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-29T09:18:18Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p>Les línies de bus de TMB funcionen per freqüència de pas o per explotació per horari.</p>\n<h3 id=\"h_01J6EPTJR8AETQQ74Y7YCBXWF1\">Línies freqüència de pas</h3>\n<p>La majoria de les línies de bus de TMB funcionen per freqüència de pas. </p>\n<p>Exemple: la infomació de la línia 7, de la parada Diagonal - Josep Pla (18990), destinació Zona Universitària és la següent:<br>05:50 - 06:00 - 06:07 - 06:14 - 06:21 - 06:28 - 06:35 - 06:42<br>06:49 - 06:56<br>De 07:00 a 09:00: cada 5 minuts<br>De 09:00 a 19:00: cada 7 minuts<br>De 19:00 a 21:00: cada 8 minuts<br>21:05 - 21:15 - 21:25 - 21:35 - 21:45 - 21:55 - 22:10 - 22:25</p>\n<p>Això vol dir que a les 5:50, 6:00, 6:07 etc. els busos surten del terminal Fòrum, direcció Zona Universitària i que entre les 7:00 i les 9:00 circulen cada 5 minuts (sempre que no hi hagi afectacions a la via pública)</p>\n<h3 id=\"h_01J6EPTJR8HSZ973KHD5YCYAG2\">Línies explotació per horari</h3>\n<p>Les línies d'explotació per horari tenen un horari de pas fix per cada parada i està publicat tant al web com al pal o a la marquesina de les parades.</p>\n<p>Exemple: la informació de la línia 121, de la parada Manso - Rocafort (3438), destinació Poble Sec és la següent:</p>\n<p>07:01 - 07:18 - 07:35 - 07:51 - 08:07 - 08:24 - 08:41 - 09:01<br>09:21 - 09:41 - 10:01 - 10:21 - 10:41 - 11:01 - 11:21 - 11:41<br>12:01 - 12:21 - 12:41 - 13:01 - 13:21 - 13:41 - 14:01 - 14:21<br>14:41 - 15:01 - 15:21 - 15:41 - 16:01 - 16:21 - 16:41 - 17:01<br>17:21 - 17:41 - 18:01 - 18:21 - 18:41 - 19:01 - 19:21 - 19:41<br>20:01 - 20:21 - 20:41 - 21:01</p>\n<p>Això significa que el bus passarà per aquesta parada a les 7:01, 7:18 h. (sempre que no hi hagi afectacions a la via pública)</p>\n<h3 id=\"h_01J6EPTJR8G7ZT2XTXSFAED3RH\">Línies doble destinació</h3>\n<p>Les línies de doble destinació són línies que tenen un origen i dues possibles destinacions (indicades en el frontal del vehicle). Actualment hi ha les línies H6 i V13.</p>\n<p><strong>H16</strong></p>\n<p>La línia H6 té origen a la parada de Zona Universitària i les seves destinacions són: Fabra i Puig o Onze de Setembre. Els autobusos amb destinació Fabra i Puig finalitzen el recorregut a la parada de Fabra i Puig i els autobusos amb destinació Onze de Setembre fan parada a la zona de Fabra i Puig i allarguen el recorregut fins a la parada de Pare Manyanet. </p>\n<p><strong>V13</strong></p>\n<p>La línia V13 té origen a la parada de Pla de Palau i les seves destinacions són: Pl. Kennedy o Av. Tibidabo. Els autobusos amb destinació Pl. Kennedy finalitzen el recorregut a la parada de Pl. Kennedy i els autobusos amb destinació Av. Tibidabo fan parada a la zona de Pl. Kennedy i allarguen el recorregut fins a la parada d'Av. Tibidabo</p>\n<p>Només tenen doble destinació els dies feiners; els caps de setmana i festius tots els busos tenen, com a parada final, Onze de Setembre (H6) i Av. Tibidabo (V13)</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

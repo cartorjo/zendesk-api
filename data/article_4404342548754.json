@@ -1,0 +1,35 @@
+{
+  "id": 4404342548754,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4404342548754.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4404342548754-T-mobilitat-accions-diferides-i-efectives",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003770440,
+  "created_at": "2021-07-27T10:41:11Z",
+  "updated_at": "2024-05-13T07:49:46Z",
+  "name": "T-mobilitat: accions diferides i efectives",
+  "title": "T-mobilitat: accions diferides i efectives",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-05-13T07:49:40Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "diferit",
+    "efectiu",
+    "diferides",
+    "efectives"
+  ],
+  "body": "<p><strong>Què és i quina diferència hi ha?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Les accions <strong>efectives </strong>són operacions que es realitzen sobre un suport i que es materialitzen sobre aquest en el mateix moment en què es fan. Per contra, les accions <strong>diferides </strong>són operacions en què es requereix un temps d’actualització perquè l’acció estigui disponible. En aquest últim cas, el suport ha d'interactuar amb un CCTIU o lector NFC perquè es faci efectiva: validadores, màquines automàtiques, mòbil amb NFC o lectors de PAC.</p>\n<table style=\"width: 760px;\" border=\"1\">\n<tbody>\n<tr>\n<td width=\"307\">\n<p><strong>Canals / </strong><strong>Accions</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\">\n<p><strong>Efectives</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\">\n<p><strong>Diferides</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"307\">\n<p><strong>Punts</strong> <strong>presencials</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n</tr>\n<tr>\n<td width=\"307\">\n<p><strong>Canal </strong><strong>telefònic</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453253916\" alt=\"cruz_roja.jpg\" width=\"20\" height=\"20\"></td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n</tr>\n<tr>\n<td width=\"307\">\n<p><strong>Portal web</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453253916\" alt=\"cruz_roja.jpg\" width=\"20\" height=\"20\"></td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\">\n<p>   <img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\">  </p>\n</td>\n</tr>\n<tr>\n<td width=\"307\">\n<p><strong>App </strong><strong>sense</strong><strong> NFC</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453253916\" alt=\"cruz_roja.jpg\" width=\"20\" height=\"20\"></td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n</tr>\n<tr>\n<td width=\"307\">\n<p><strong>App </strong><strong>amb</strong><strong> NFC</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n</tr>\n<tr>\n<td width=\"307\">\n<p><strong>Màquines</strong> <strong>d’auto</strong><strong>-venda</strong></p>\n</td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453250460\" alt=\"tick_verde.png\" width=\"22\" height=\"22\"></td>\n<td class=\"wysiwyg-text-align-center\" width=\"227\"><img src=\"https://tmb-qrs.zendesk.com/hc/article_attachments/11420453253916\" alt=\"cruz_roja.jpg\" width=\"20\" height=\"20\"></td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

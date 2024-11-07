@@ -1,0 +1,30 @@
+{
+  "id": 9346194641052,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/9346194641052.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/9346194641052-Metro-ampliaci%C3%B3-xarxa-de-metro",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208960,
+  "created_at": "2023-06-26T10:52:49Z",
+  "updated_at": "2024-09-09T10:55:14Z",
+  "name": "Metro: ampliació xarxa de metro",
+  "title": "Metro: ampliació xarxa de metro",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-09T10:55:13Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<h3 id=\"h_01HR6W9A4M5VCWH4X7BHCTKRWE\">Quines actuacions hi ha previstes?</h3>\n<p>Segons el Pla Director d’Infraestructures 2021-2030 de l’ATM, de juny de 2021 (<a href=\"https://www.atm.cat/pdi-2021-2030\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.atm.cat/pdi-2021-2030</a>) es proposa executar les prolongacions:</p>\n<p>- línia 1, des de Fondo fins l’estació de Badalona</p>\n<p>- línia 4, des de La Pau fins La Sagrera </p>\n<p>- línia 9, tram central</p>\n<h3 id=\"h_01HR6W9A4MJ5YV7R8MT6FQZ1AH\">Ja s'ha iniciat alguna de les actuacions previstes?</h3>\n<p><strong>L4</strong></p>\n<p>El Departament de Territori ha licitat la redacció del projecte constructiu de part del perllongament de la línia 4 de metro des de La Pau fins a La Sagrera.</p>\n<p>Les 3 noves estacions seran: Santander, Sagrera-TAV (connexió amb les línies d'alta velocitat) i La Sagrera (connexió amb la xarxa de Rodalies i l'L9). <br>La redacció del projecte es licita per un import de 2.598.654,77 € i un termini de 15 mesos.</p>\n<p>El projecte preveu l'execució d'un nou túnel d'uns 320 metres, la nova estació de Santander i diverses actuacions en els dos trams de túnel ja existents.</p>\n<p>Sumant l'obra ja executada i la pendent, la inversió total del perllongament és de més de 300 M d'euros. Es preveu que aquest perllongament de l’L4 capti una demanda de més de 43.000 de persones usuàries al dia, més de 15 milions de viatgers a l’any. Es calcula que la nova infraestructura permetrà estalviar 1.000 tones d’emissions de CO2 anuals.</p>\n<p><strong>L9</strong></p>\n<p>A l'abril de 2022 es van reanudar les obres per acabar el tram central. El calendari d'inauguració d'estacions està dividit en tres fases:</p>\n<p>- 2026. Lesseps, Guinardó i Sagrera - TAV</p>\n<p>- 2027. Camp Nou, Sarrià, Mandri, Sanllehy i Plaça Maragall.</p>\n<p>- 2028-2029. Campus Nord, Manuel Girona i Putxet.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

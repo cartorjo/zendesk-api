@@ -1,0 +1,35 @@
+{
+  "id": 360015692480,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360015692480.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360015692480-Metro-recollida-paquets",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2020-08-05T10:17:55Z",
+  "updated_at": "2023-11-03T19:23:05Z",
+  "name": "Metro: recollida paquets",
+  "title": "Metro: recollida paquets",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-05-30T07:36:30Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Citypaq",
+    "lliurament",
+    "correos",
+    "missatgeria"
+  ],
+  "body": "<p><strong>Què és?</strong></p>\n<p>És un sistema de lliurament de paqueteria que ofereix als usuaris la possibilitat de tenir accés, als paquets comprats online, durant les hores d'obertura de les estacions els set dies de la setmana. Les taquilles disposen de compartiments de diferents mides, compten amb tots els requisits de seguretat i estan adaptats per a l’ús de persones amb mobilitat reduïda.</p>\n<p><strong>Com funciona?</strong></p>\n<p>Els clients d’Amazon i d’InPost, en el moment de fer una compra, poden triar rebre a casa el paquet o bé que el dipositin en una taquilla per recollir-lo després. Els clients reben una clau personal per poder fer la recollida en qualsevol moment.</p>\n<p><strong>Quines estacions tenen taquilles d’Amazon?</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>Torrassa (L1)</li>\n<li>Sant Andreu (L1)</li>\n<li>Passeig de Gràcia (L2, L3 i L4)</li>\n<li>Palau Reial (L3)</li>\n<li>Alfons X (L4)</li>\n<li>Virrei Amat (L5)</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>Quines estacions tenen taquilles d’InPost?</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li>Fondo (L1 i L9 Nord)</li>\n<li>Arc de Triomf (L1)</li>\n<li>Santa Coloma (L1)</li>\n<li>Clot (L1 i L2)</li>\n<li>Maria Cristina (L3)</li>\n<li>Bogatell (L4)</li>\n<li>Horta (L5)</li>\n<li>Sants Estació (L3 i L5)</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p><strong>Què passa si el client té una incidència amb la recollida?</strong></p>\n<p>Ha de contactar amb les empreses distribuïdores Amazon o InPost, qui tenen la competència en el repartiment i lliurament a les taquilles.</p>\n<p> </p>\n<p>Més informació: <a href=\"https://noticies.tmb.cat/empresa/ampliat-servei-de-taquilles-recollir-paquets-estacions-metro\">https://noticies.tmb.cat/empresa/ampliat-servei-de-taquilles-recollir-paquets-estacions-metro</a> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

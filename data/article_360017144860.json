@@ -1,0 +1,33 @@
+{
+  "id": 360017144860,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360017144860.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360017144860-Canals-d-atenci%C3%B3-i-tr%C3%A0mits-cita-pr%C3%A8via-Punts-TMB-i-Quioscos",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 8661462848284,
+  "created_at": "2020-10-23T09:45:26Z",
+  "updated_at": "2024-09-06T09:51:14Z",
+  "name": "Canals d'atenció i tràmits: cita prèvia Punts TMB i Quioscos",
+  "title": "Canals d'atenció i tràmits: cita prèvia Punts TMB i Quioscos",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-06T09:50:50Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Punts TMB",
+    "Cita prèvia"
+  ],
+  "body": "<p style=\"background-color: white;\"><strong><span style=\"color: black;\">Quins tràmits requereixen cita prèvia?</span></strong></p>\n<ul>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Alta a la T-mobilitat</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Compra de suports T-mobilitat</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Alta de perfil famílies monoparentals o famílies nombroses.</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Alta de perfil persones en situació d'atur</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Comprar T-escolar o gran quantitat de títols</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Sol·licitar factures</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Presentació de queixes, reclamacions i suggeriments</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Presentació d'al·legacions</span></li>\n</ul>\n<p style=\"background-color: white;\"><strong><span style=\"color: black;\">Quins tràmits no requeireixen cita prèvia?</span></strong></p>\n<ul>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Bescanviar abonaments</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Recollir troballes (únicament al Punt TMB Sagrada Família)</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Demanar justificant d'incidència de metro</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Avisar d'un desperfecte</span></li>\n<li style=\"background-color: white;\"><span style=\"color: black;\">Pagar una infracció</span></li>\n</ul>\n<p><strong>Com sol·licitar cita prèvia?</strong></p>\n<p>Per <strong>sol·licitar</strong> la cita prèvia es pot fer:</p>\n<ul>\n<li>Omplir el <a href=\"https://www.tmb.cat/ca/atencio-al-client/punts-atencio/cita-previa\" target=\"_blank\" rel=\"noopener noreferrer\">formulari web</a> on cal indicar l'adreça electrònica i escollir el Punt TMB o Quiosc, la data, l'hora i la gestió presencial que es vol fer.</li>\n<li>Trucar al 900 70 11 49 de dilluns a diumenge de 8 a 21 h.</li>\n<li>Un cop acceptat se li envia un correu de confirmació de cita al client.</li>\n</ul>\n<p><strong>Com es cancel·la la cita?</strong></p>\n<p>Es pot cancel·lar una cita:</p>\n<ul>\n<li>A través del web <a href=\"https://www.tmb.cat/ca/atencio-al-client/punts-atencio/cita-previa\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tmb.cat/ca/atencio-al-client/punts-atencio/cita-previa</a> introduïnt l'adreça electrònica i el codi de reserva.</li>\n<li>A través del correu electrònic de confirmació.</li>\n<li>Trucant al 900 70 11 49 de dilluns a diumenge de 8 a 21 h.</li>\n</ul>\n<p><strong>Com es modifica la cita prèvia?</strong></p>\n<p>Per <strong>modificar</strong> una cita donada per la web, primer s’ha de <strong>cancel·lar</strong> la ja existent i després demanar una de nova.</p>\n<p><strong>Què ha de fer el client quan arribi al Punt o Quiosc?</strong></p>\n<p>Un cop arribi l'usuari al Punt ha d'anar a la màquina situada a l'entrada i donar el codi de reserva (si es va per la web) o el DNI sense lletra (si es va fer per telèfon).</p>\n<p><strong>Què passa si un client no té cita prèvia?</strong></p>\n<p>Quan arribi al Punt s'haurà de situar a la cua blava. Si la seva consulta o gestió no requereix de cita li atendran, si la requereix l'informaran que demani cita prèvia pels canals habilitats o bé li donaran cita al mateix Punt. Als Quioscos no hi ha cua blava, l'informaran que ha de demanar cita i només li atendran si per disponibilitat és possible. </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

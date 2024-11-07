@@ -1,0 +1,30 @@
+{
+  "id": 9260439509916,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/9260439509916.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/9260439509916-OCI-Catalunya-Bus-Tur%C3%ADstic",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209420,
+  "created_at": "2023-06-19T10:43:05Z",
+  "updated_at": "2024-09-02T11:22:05Z",
+  "name": "OCI: Catalunya Bus Turístic",
+  "title": "OCI: Catalunya Bus Turístic",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-02T11:22:00Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Què és?</strong></p>\n<p>És un servei d'excursions de mig dia o dia sencer a Montserrat i a Girona i el museu Dalí. També s'ofereix un servei d'autocar express directe entre Barcelona i La Roca Village.</p>\n<p><strong>D'on surten els autocars?</strong></p>\n<p>Els autocars surten de l'Estació del Nord (carrer d'Alí Bei, 80).</p>\n<p><strong>Es poden fer reserves per a grups privats?</strong></p>\n<p>Sí, per a més informació i pressupost cal contactar amb: <a href=\"mailto:info@catalunyabusturistic.com\">info@catalunyabusturistic.com </a></p>\n<p><strong>Quan es va iniciar aquest servei?</strong></p>\n<p>És un servei que es va iniciar al 2003, conjuntament amb altres empreses del sector turístic i del transport de viatgers.</p>\n<p><strong>On compro els tickets?</strong></p>\n<p>Els tickets es compren a: <a href=\"https://tickets.catalunyabusturistic.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://tickets.catalunyabusturistic.com/</a> </p>\n<p><strong>On trobar més informació?</strong></p>\n<p>Al web: <a href=\"https://www.catalunyabusturistic.com/ca/cbt-informacio\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.catalunyabusturistic.com/ca/cbt-informacio</a></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

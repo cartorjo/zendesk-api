@@ -1,0 +1,35 @@
+{
+  "id": 4409218108690,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4409218108690.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4409218108690-Metro-carregadors-USB",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2021-11-03T16:01:33Z",
+  "updated_at": "2023-11-03T19:23:17Z",
+  "name": "Metro: carregadors USB",
+  "title": "Metro: carregadors USB",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-08-08T10:36:05Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "estacions",
+    "USB",
+    "carregadors",
+    "metro+"
+  ],
+  "body": "<p><strong>On es troben els carregadors USB a la xarxa de metro de Barcelona?</strong></p>\n<p>La línia 2 de la xarxa de metro disposa de punts de recàrrega ràpida 3.0 d’alta potència a quatre estacions de la L2 (a les andanes de Sagrada Família, Passeig de Gràcia i Paral·lel, i al vestíbul d’intercanvi d’Universitat). Els trens d’aquesta línia també disposen de carregadors USB.</p>\n<p><strong>És gratuït aquest servei?</strong></p>\n<p>Els usuaris poden utilitzar gratuïtament per carregar les bateries dels seus dispositius mòbils.</p>\n<p><strong>Quants carregadors hi ha?</strong></p>\n<p>Cada carregador està equipat amb quatre ports USB.</p>\n<p><strong>On estan situats?</strong></p>\n<p>Estan situats als dos extrems dels trens, a una alçada pensada perquè hi puguin accedir les persones amb mobilitat reduïda. A més, són fàcils de localitzar gràcies a la senyalística interior i exterior.</p>\n<p><strong>S’ha implementat alguna tecnologia de recàrrega ràpida als punts de recàrrega?</strong></p>\n<p>Els punts de recàrrega compten amb la tecnologia de recàrrega ràpida 3.0 Agile Power de Yupcharge Enllaç extern, la qual proporciona una recàrrega ràpida i eficient a tots els mòbils connectats. Els dispositius d’Apple poden arribar fins a 3 ampers i els mòbils amb Android que incorporin els nous processadors de recàrrega ràpida seran capaços de recarregar-se fins a un 75% més ràpidament que amb un endoll convencional. A més, fan servir un sistema de reconeixement de l’estat del dispositiu en recarregar-lo. L’objectiu és donar una recàrrega eficient en el mínim temps possible.</p>\n<p><strong>He de fer servir el meu cable USB?</strong></p>\n<p>Sí, els usuaris han de portar el cable de recàrrega USB del seu telèfon mòbil.</p>\n<p><strong>Des de quan hi ha carregadors USB a metro?</strong></p>\n<p>El projecte pilot innovador de recàrrega mitjançant USB al metro de Barcelona va començar el desembre del 2016, quan es van incorporar usb a la L2 (a les andanes de Sagrada Família, Passeig de Gràcia i Paral·lel, i al vestíbul d’intercanvi d’Universitat) i al març del 2017, dos trens de la línia 2 del metro van incorporar carregadors de dispositius mòbils d'alta potència. Entre el juliol del 2018 i l’abril del 2019 es va desenvolupar la tercera fase de la instal·lació de carregadors de dispositius mòbils a tots els trens de la línia 2.</p>\n<p><strong>Quan s’instal·laran punts de recàrrega a les altres línies de metro?</strong></p>\n<p>En properes fases s’aniran incorporant carregadors als trens de la resta de les línies de metro.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 360016478260,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360016478260.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360016478260-Canals-d-atenci%C3%B3-i-tr%C3%A0mits-objectes-perduts",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 6,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 8661462848284,
+  "created_at": "2020-09-17T10:54:58Z",
+  "updated_at": "2024-08-30T09:54:43Z",
+  "name": "Canals d'atenció i tràmits: objectes perduts",
+  "title": "Canals d'atenció i tràmits: objectes perduts",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-30T09:54:42Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "objectes perduts"
+  ],
+  "body": "<h3 id=\"01H8K6J6YAC119XYS25JGEGDSM\">Què es fa amb els objectes trobats? </h3>\n<p class=\"wysiwyg-text-align-justify\">Tots els objectes trobats i entregats per altres ciutadans es codifiquen i entren a formar part d'una base de dades en què consten el dia, si són troballes de bus o metro i una breu descripció.</p>\n<p class=\"wysiwyg-text-align-justify\">Seguidament, s'emmagatzemen durant un màxim de 21 dies al Punt TMB d'Informació i Atenció de Sagrada Família (L5), des d'on se centralitza la recepció i el lliurament dels objectes trobats a les xarxes de metro i bus.</p>\n<h3 id=\"01H8K6J6YACJXB5N0BSMT9Z1KN\">Com puc saber si han trobat el meu objecte?</h3>\n<p class=\"wysiwyg-text-align-justify\">Si un usuari ha perdut un objecte a metro o a bus i vol saber si s'ha trobat pot trucar al o 900 701 149 o omplir el formulari de consultes d’objectes perduts que trobaran a <a href=\"https://www.tmb.cat/ca/atencio-al-client/gestions/objectes-perduts\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tmb.cat/ca/atencio-al-client/gestions/objectes-perduts</a></p>\n<p class=\"wysiwyg-text-align-justify\">Per poder donar-li una resposta han de passar entre 1 i 4 dies laborables segons el lloc de la pèrdua i el tipus d'objecte i facilitar dades concretes com la descripció de l'objecte i el dia i lloc (línia) de la pèrdua. </p>\n<h3 id=\"01H8K7597FEXC9F38CBJK8BBV6\">Un cop trobat, com el puc recuperar? </h3>\n<p class=\"wysiwyg-text-align-justify\">Si l'objecte és localitzat, s'haurà de dirigir al Punt TMB de Sagrada Família <strong>sense cita prèvia</strong>. Per poder recollir les seves pertinences, el ciutadà haurà de presentar el seu DNI i signar un imprès com a justificant d'entrega de l'objecte. El pot passar a recollir una altra persona aportant una autorització signada i el DNI o equivalent de la persona que autoritza i l'autoritzat. </p>\n<p class=\"wysiwyg-text-align-justify\">Si l'objecte perdut és un mòbil, es demana al sol·licitant que introdueixi la contraseya de la SIM per verificar que és el propietari.</p>\n<h3 id=\"01H8K6J6YAJ5W5BBMYS58CXVA1\" class=\"wysiwyg-text-align-justify\">Què és fa amb els objectes trobats i no reclamats?</h3>\n<p class=\"wysiwyg-text-align-justify\">Un cop passats 21 dies, les troballes que contenen documentació oficial (DNI, passaport o targetes bancàries) o números de sèrie, com telèfons mòbils, portàtils o càmeres, s'entreguen a l'Ajuntament de Barcelona. Les targetes roses, passis d'acompanyant i T-verda s'envien a Cetramsa (l'ens que gestiona els títols socials). Les targetes integrades al sistema T-mobilitat, es porten a destruir i els objectes no documentats que no es reclamen i que poden tenir un altre ús (roba en bon estat, paraigües...), s'entreguen a Conductors Solidaris de Catalunya, una organització no governamental fundada fa quasi 20 anys per empleats d'Autobusos de TMB, especialitzada a organitzar combois d'ajuda humanitària per alleujar les carències de la població en zones afectades per conflictes o crisis humanitàries.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

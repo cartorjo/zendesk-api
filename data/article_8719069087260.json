@@ -1,0 +1,30 @@
+{
+  "id": 8719069087260,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8719069087260.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8719069087260-Bus-instal-lacions",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 8718932364956,
+  "created_at": "2023-05-08T06:44:26Z",
+  "updated_at": "2024-09-04T11:24:00Z",
+  "name": "Bus: instal·lacions",
+  "title": "Bus: instal·lacions",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-04T11:23:55Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Marquesines</strong></p>\n<p>Les marquesines i plataformes de les parades de bus són competència de l’ajuntament del municipi on es troben.</p>\n<p>Les persones de contacte de l’Àrea Operativa de Bus poden passar avís de les incidències a les marquesines.</p>\n<p class=\"MsoNormal\">Al gener de 2022 l’AMB va presentar el nou model de marquesina per al Bus Metropolità. Entre 2022 i 2027 es té previst instal·lar 260 noves marquesines.</p>\n<p class=\"MsoNormal\">A 31 de desembre de 2023, hi havia 1432 parades amb marquesines.</p>\n<p>Més informació marquesines AMB:</p>\n<p><a href=\"https://noticies.tmb.cat/innovacio/nou-model-de-marquesina-parades-dautobus-municipis-metropolitans\" target=\"_blank\" rel=\"noopener noreferrer\">https://noticies.tmb.cat/innovacio/nou-model-de-marquesina-parades-dautobus-municipis-metropolitans</a> </p>\n<p><a href=\"https://www.amb.cat/es/web/amb/actualitat/sala-de-premsa/notes-de-premsa/detall/-/notapremsa/marquesines-mes-tecnologiques--mes-segures-i-mes-accessibles-per-al-bus/12272988/11696\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.amb.cat/es/web/amb/actualitat/sala-de-premsa/notes-de-premsa/detall/-/notapremsa/marquesines-mes-tecnologiques--mes-segures-i-mes-accessibles-per-al-bus/12272988/11696</a></p>\n<p><strong>Pals de parades</strong></p>\n<p>Quan no hi ha prou espai per instal·lar marquesines, s'instal·len pals de parada, que incorporen informació sobre les línies de bus que hi tenen parada.</p>\n<p>A 31 de desembre de 2023, hi havia 1188 parades amb pals de parada.</p>\n<p><strong>Pals solars</strong></p>\n<p>Hi ha pals de parades que incorporen pantalles que funcionen amb energia solar. El primer model de pal solar es va estrenar l'any 2012.</p>\n<p>Més informació:</p>\n<p><a href=\"https://noticies.tmb.cat/innovacio/nou-model-de-pal-solar-parades-dautobus\" target=\"_blank\" rel=\"noopener noreferrer\">https://noticies.tmb.cat/innovacio/nou-model-de-pal-solar-parades-dautobus</a> </p>\n<div class=\"clearfix text-formatted field field-name-field-description field-type-text-long field-label-hidden\">\n<div class=\"field-items\">\n<div class=\"field-item\">\n<p><strong>Parades dobles</strong></p>\n<p>Són parades en les quals, simultàniament, dos autobusos poden deixar pujar i baixar passatgers. Les parades dobles permeten escurçar el temps d’aturada dels busos i, per tant, reduir el temps total del trajecte.</p>\n<p>Una parada doble consisteix en un cos central, format per una o dues marquesines, i dos pals que indiquen els dos punts de parada diferents. Aquests pals tenen el número 1 o 2, segons correspongui.</p>\n<p>El primer autobús que arriba a la parada s’atura al punt de parada 1, sempre que li sigui possible. Si arriba un altre bus a la parada quan el punt de parada 1 està ocupat, aquest bus s’atura i agafa passatge al punt de parada 2. El bus que ha parat al punt 2 no torna a aturar-se al punt de parada 1 i continua la seva ruta, excepte en el cas d’usuaris invidents. Si algun client invident vol accedir a aquell bus, sí que s’aturarà en el punt de parada 1 tot i que el bus ja hagi parat en el punt 2.</p>\n<p>Més informació:</p>\n<p><a href=\"https://noticies.tmb.cat/transport/com-funcionen-parades-dobles-dautobus\" target=\"_blank\" rel=\"noopener noreferrer\">https://noticies.tmb.cat/transport/com-funcionen-parades-dobles-dautobus</a> </p>\n</div>\n</div>\n</div>\n<p><strong>Parades terminals</strong></p>\n<p class=\"MsoNormalCxSpFirst\"><span lang=\"CA\">Les parades terminals de les línies de bus de TMB són exclusives per a cada una de les línies; altres línies de TMB o d’altres empreses no hi poden efectuar una parada oficial. El motiu és que l’espai de la parada queda reservat perquè hi puguin coincidir dos vehicles de la línia que té el terminal en aquella parada i no es podria garantir que hi hagués espai lliure per a vehicles d’altres línies en el moment en què passessin per allà. </span></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

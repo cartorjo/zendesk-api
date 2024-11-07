@@ -1,0 +1,30 @@
+{
+  "id": 9231900061724,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/9231900061724.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/9231900061724-Metro-distribu%C3%AFdores",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2023-06-16T11:16:55Z",
+  "updated_at": "2023-11-03T19:23:28Z",
+  "name": "Metro: distribuïdores",
+  "title": "Metro: distribuïdores",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-07-06T11:39:27Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>Quin és l'import dels bitllets acceptats a les DA's de metro?</strong></p>\n<p>Per evitar les incomoditats de tornar grans quantitats de canvi en moneda (juntament amb el fet que aquest canvi no sempre es tornaria en monedes grans), les DA's del metro accepten uns bitllets d’un import o d’un altre en funció del preu de la compra que s’efectua i de l’import que resta per abonar. <br>- per a imports inferiors a 5 €, s’accepta un màxim de 10 €,<br>- per a imports de més de 5 €, s’accepten bitllets de 20 €,<br>- per a imports de més de 25 €, s’accepten bitllets de 50 €.</p>\n<p><strong>Quines targetes de pagament accepten les DA's?</strong></p>\n<p>Les targetes de pagament acceptades a les distribuïdores automàtiques de metro són: targetes La Caixa, Visa i Visa Electron, MasterCard i Maestro, AmEx (American Express), Euro 6000 (que estan vinculades a Visa, Visa Electron, MasterCard o Maestro) i JCB.</p>\n<p><strong>Per què hi ha algunes DA's amb la pantalla tapada?</strong></p>\n<p>Aquestes DA's estan fora de servei no pas perquè estiguin espatllades, sinó per optimitzar els costos de manteniment.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

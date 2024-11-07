@@ -1,0 +1,40 @@
+{
+  "id": 360014342440,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014342440.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014342440-T%C3%ADtols-normativa",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208820,
+  "created_at": "2020-06-10T09:38:52Z",
+  "updated_at": "2024-02-15T09:10:59Z",
+  "name": "Títols: normativa",
+  "title": "Títols: normativa",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-02-15T09:10:37Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Títols",
+    "Normativa",
+    "Validació",
+    "Transbordament",
+    "Bescanvis",
+    "Personal uniformat",
+    "Discapacitat",
+    "Pèrdua",
+    "robatori"
+  ],
+  "body": "<p><strong>Fins a quina edat s'està exempt de pagar bitllet?</strong></p>\n<p>Els menors 4 anys estan exempts de pagar bitllet.</p>\n<p><strong>Quin és el temps màxim de permanència al metro i al bus?</strong></p>\n<p>Al metro, es pot romandre fins a 2 hores des de la primera validació.</p>\n<p>Al bus, una validació dona dret a arribar fins al final de la línia en la direcció escollida (excepte a les línies de Bus del Barri i en altres línies circulars, en què pots fer tot el trajecte de la línia)</p>\n<p><strong>Com haig de viatjar amb un títol multipersonal?</strong></p>\n<p>Actualment, només si es té carregada una T-familiar, una T-grup o una T-70/90 en la targeta T-mobilitat, es pot compartir amb una altra persona i viatjar junts, sempre que estigui correctament validada per al nombre de persones que fan el desplaçament i viatgin juntes.</p>\n<p>En el cas del metro, cal que facin juntes el trajecte des de l’inici fins a la sortida de les instal·lacions.</p>\n<p>En el cas del bus, poden separar-se, però la persona que porta l’abonament ha de ser l’última que baixi del vehicle.</p>\n<p><strong>S'ha de validar sempre un bitllet?</strong></p>\n<p>Sí, sempre s’ha de validar encara que es viatgi amb un títol de viatges il·limitats.</p>\n<p><strong>Què és un títol personalitzat?</strong></p>\n<p>Els títols personalitzats són vàlids exclusivament per al titular de la targeta i són un títol de transport de caràcter personal i intransferible, de manera que no està permès que els faci servir una persona diferent del titular.</p>\n<p>Han d'anar acompanyats d'un document oficial acreditatiu i en vigor del seu titular: DNI, NIE, passaport o permís de conduir del seu titular.</p>\n<p>Per als títols de <strong>familia nombrosa</strong> o <strong>monoparental</strong> tant en el moment de l'adquisició del títol de transport com durant tot el seu període de validesa, les persones beneficiàries del descompte hauran de disposar un document oficial acreditatiu en vigor que acrediti la seva identitat (DNI, NIE, passaport del seu titular) i document vigent que acrediti la seva condició de membre de <strong>família monoparental</strong> o de <strong>família nombrosa</strong> de categoria general o especial.</p>\n<p>La condició de beneficiari del títol de FM/FN es mantindrà al llarg de la vigència del títol amb independència de la pèrdua de la condició de membre de família monoparental o de família nombrosa de categoria general o especial, sempre i quan s'acrediti documentalment haver gaudit de la dita condició en el moment de la seva adquisició i primera validació.</p>\n<p><strong>Quins treballadors/res poden viatjar sense validar un títol de transport?</strong></p>\n<p>Poden viatjar sense validar un títol i sempre que ho facin uniformats el personal de:</p>\n<ul>\n<li>Guàrdia Urbana (dins del municipi al qual pertanyen).</li>\n<li>Auxiliars de la Guàrdia Urbana (vigilants aparcaments) dins del municipi al qual pertanyen.</li>\n<li>Mossos d’esquadra.</li>\n<li>Policia Nacional.</li>\n<li>Guàrdia Civil.</li>\n<li>Policia Militar.</li>\n</ul>\n<p><strong>Haig de validar al bus la targeta acreditativa de la discapacitat?</strong></p>\n<p>Les persones que poseeixen la targeta acreditativa de la discapacitat <strong>poden viatjar al bus sense validar</strong> Aquest títol el tenen persones amb mobilitat reduïda que per les seves condicions no poden accedir a les màquines validadores de bus.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

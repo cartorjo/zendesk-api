@@ -1,0 +1,30 @@
+{
+  "id": 9531415005468,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/9531415005468.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/9531415005468-Metro-nomenclatura-estacions",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2023-07-10T10:56:20Z",
+  "updated_at": "2023-11-03T19:23:30Z",
+  "name": "Metro: nomenclatura estacions",
+  "title": "Metro: nomenclatura estacions",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-07-10T11:19:33Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p><strong>De qui és competència decidir el nom de les noves estacions del metro?</strong></p>\n<p>L'ATM és la responsable d'aprovar les denominacions de les estacions ferroviàries (metro, FGC, Rodalies i TRAM), seguint les recomanacions de la seva Comissió de Nomenclatura.</p>\n<p>Aquesta comissió reuneix Administracions i operadors del transport per coordinar la nomenclatura de la xarxa de transport públic. Compta també amb l'assessorament de l'Institut d'Estudis Catalans i escolta el parer de les administracions concernides a cada proposta.</p>\n<p><strong>També revisa el nom de les estacions ja existents?</strong></p>\n<p>Sí, també revisa les denominacions actuals, amb dues línies de treball:</p>\n<p>1. Donar sentit a tota la xarxa de transport públic ferroviari, de manera que:</p>\n<p>- les estacions d'enllaç tinguin el mateix nom encara que siguin d'operadors diferents.</p>\n<p>- no hi hagi dues estacions no enllaçades que tinguin el mateix nom.</p>\n<p>El propòsit és evitar confusions entre els usuaris. Denominacions diferents per a estacions no vinculades i denominacions coincidents per a estacions vinculades.</p>\n<p>2. Adequar millor la denominació de determinades estacions a la realitat del lloc on es troben, especialment si hi ha reivindicacions veïnals o municipals en aquest sentit.</p>\n<p><strong>Quins han estat els últims canvis de nomenclatura?</strong></p>\n<p>L'última tongada de denominacions aprovades va ser al maig de 2022. La substitució dels noms en la senyalització i el material informatiu serà progressiva, aprofitant al màxim les sinergies que pugui haver-hi amb altres actuacions per tal de minimitzar els costos.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

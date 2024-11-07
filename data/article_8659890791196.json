@@ -1,0 +1,30 @@
+{
+  "id": 8659890791196,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8659890791196.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8659890791196-Bus-l%C3%ADnies-de-bus",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209060,
+  "created_at": "2023-05-03T06:58:04Z",
+  "updated_at": "2023-11-03T19:23:25Z",
+  "name": "Bus: línies de bus",
+  "title": "Bus: línies de bus",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-07-06T11:46:33Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p>Actualment la xarxa de bus de TMB està formada per un total de 97 línies: 43 línies convencionals, 26 línies de Bus de Barri i 28 línies d'altes prestacions, 17 verticals (mar-muntanya), 8 horitzontals (Llobregat-Besòs) i 3 diagonals.</p>\n<p>Cada línia està assignada a una cotxera (Ponent, Zona Franca I, Triangle i Horta)</p>\n<p><strong>Què són les línies d'altes prestacions?</strong></p>\n<p>Les línies d'altes prestacions són línies de bus que ofereixen desplaçaments més ràpids que la resta de línies, ja que la seva freqüència de pas oscila entre els 5 i els 8 minuts.</p>\n<p><strong>Quan es van començar a implantar les línies d'altes prestacions?</strong></p>\n<p>Les línies d'altes prestacions es van començar a implantar, de manera progressiva i per fases, al 2012.  </p>\n<p><strong>Quines van ser les etapes o fases?</strong></p>\n<p>- 1 d'octubre de 2012: H12, H6, V7, V21 i D20</p>\n<p>- 18 de novembre de 2013: H8, H10, H16, V3, V17</p>\n<p>- 15 de setembre de 2013: H14, V15, V27</p>\n<p>- 29 de febrer de 2016: H4, V11, V13</p>\n<p>- 13 de novembre de 2017: V5, V29, V31, D40</p>\n<p>- 25 de juny de 2018: D50, V9, V33</p>\n<p>- 26 de novembre de 2018: H2, V1, V19, V23 i V25.</p>\n<p><strong>Què són les àrees d'intercanvi?</strong></p>\n<p>Són àrees on es creuen les línies verticals, horitzontals i diagonals, en tots dos sentits.</p>\n<p><strong>Què són les línies urbanes i interurbanes convencionals?</strong></p>\n<p>Són línies de bus que cobreixen trajectes per tota la ciutat i/o per alguns municipis de l'àrea metropolitana de Barcelona.</p>\n<p><strong>Què són les línies Bus de Barri o línies de proximitat?</strong></p>\n<p>Són línies de bus que fan trajectes dins dels barris de Barcelona i connecten amb els principals equipaments, carrers i indrets de cada barri. Cobreixen itineraris més curts i transiten per carrers amb menys densitat de circulació i amplada que la resta de línies. Estan indicats especialment per facilitar la mobilitat en barris de carrers amb desnivells o estrets.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

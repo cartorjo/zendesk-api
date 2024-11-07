@@ -1,0 +1,30 @@
+{
+  "id": 8719175365532,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/8719175365532.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/8719175365532-Bus-aire-condicionat-calefacci%C3%B3",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003255259,
+  "created_at": "2023-05-08T06:56:22Z",
+  "updated_at": "2024-09-04T11:24:43Z",
+  "name": "Bus: aire condicionat/calefacció",
+  "title": "Bus: aire condicionat/calefacció",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-04T11:24:40Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<h3 id=\"h_01J6YCEXRCV6XN8S56KRQ7Y98E\">Quin és el període obligatori de funcionament de l'aire condicionat al bus?</h3>\n<p>Actualment el període de funcionament obligatori dels equips d'aire condicionat dels autobusos comença l'1 d'abril i finalitza el 31 d'octubre.</p>\n<p>La resta de l'any (de l'1 de novembre al 31 de març) els equips d'aire condicionat estaran disponibles per a la seva utilització opcional.</p>\n<p>Més informació a: <a href=\"https://gentmb.tmb.cat/seccio/mon-bus/com-funciona-laire-condicionat-lautobus\" target=\"_blank\" rel=\"noopener noreferrer\">https://gentmb.tmb.cat/seccio/mon-bus/com-funciona-laire-condicionat-lautobus</a> </p>\n<h3 id=\"h_01J6YCEXRCC4J0TDGJP6KD9P5Y\">Els vehicles de bus tenen calefacció?</h3>\n<p>Els busos de TMB no tenen calefacció. Només la zona de conducció en disposa</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 360014287219,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014287219.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014287219-T%C3%ADtols-T-casual-Treb-Aeroport",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208780,
+  "created_at": "2020-06-04T12:15:57Z",
+  "updated_at": "2024-08-30T10:33:48Z",
+  "name": "Títols: T-casual Treb. Aeroport",
+  "title": "Títols: T-casual Treb. Aeroport",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-08-30T10:33:47Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "títol",
+    "T-casual",
+    "integrat",
+    "Aeroport"
+  ],
+  "body": "<p>Títol personal i intransferible de <strong>10 viatges</strong> integrats en tots els modes de transport segons les zones per les quals es transiti.  </p>\n<p>És vàlid a les estacions de metro d'Aeroport T1 i Aeroport T2 de la línia L9 Sud i ha d'anar acompanyat d'un document oficial acreditatiu i en vigor del titular i de la preceptiva acreditació de treballador/a de l'Aeroport.</p>\n<p>Amb un viatge es pot romandre a les instal·lacions un màxim de 2 hores des de la primera validació.</p>\n<h3 id=\"h_01HGD4CK5M75YHK6R1VHTCWJJJ\"><strong>Preus</strong></h3>\n<p>A partir del 15 de gener de 2024: </p>\n<table style=\"width: 541px; height: 111px;\">\n<tbody>\n<tr>\n<td style=\"width: 79px;\">1 zona</td>\n<td style=\"width: 87px;\">2 zones</td>\n<td style=\"width: 84px;\">3 zones</td>\n<td style=\"width: 110px;\">4 zones</td>\n<td style=\"width: 110px;\">5 zones</td>\n<td style=\"width: 133px;\">6 zones</td>\n</tr>\n<tr>\n<td style=\"width: 79px;\">12,15€</td>\n<td style=\"width: 87px;\">23,90€</td>\n<td style=\"width: 84px;\">32,55€</td>\n<td style=\"width: 110px;\">41,85€</td>\n<td style=\"width: 110px;\">48,10€</td>\n<td style=\"width: 133px;\">51,15 €</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"h_01HGD4CK5NM4GAF3QD3G19WCHE\"><strong>Validesa</strong></h3>\n<p>Consultar al següent <a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/360014308879\" target=\"_blank\" rel=\"noopener noreferrer\">enllaç</a></p>\n<h3 id=\"h_01HGD4CK5NE9E2ZKWZBZ0FRWY5\"><strong>Punts de venda</strong></h3>\n<ul>\n<li>Distribuïdores automàtiques de les estacions de metro Aeroport T1 i Aeroport T2.</li>\n<li>Estacions d'altres operadors del Sistema Tarifari Integrat.</li>\n<li>Punts d'atenció d'altres operadors.</li>\n</ul>\n<h3 id=\"h_01HGD4CK5NF0E4AZQ6NVE30DDS\"><strong>Pèrdua o robatori</strong></h3>\n<p>En cas de pèrdua o robatori l'ATM determina que no es pot fer cap tipus de compensació.</p>\n<h3 id=\"h_01HGD4CK5NH2A7W5KQPQEAVVE6\"><strong>Canvi de zona</strong></h3>\n<p>Si l'usuari s'ha equivocat en el número de zones i l’ha comprat a la xarxa de metro, s'ha d'adreçar a un Punt TMB amb el títol sense començar. </p>\n<h3 id=\"h_01HGD4CK5NRT87JWHCWNGRWA8E\"><strong>Títols defectuós</strong></h3>\n<p>Si es troba defectuós, es pot demanar un bescanvi als agents d'atenció de les estacions de metro, als Punts TMB i als conductors de bus. Per poder fer el bescanvi s'ha de poder llegir: el tipus de títol, zones, data de compra i viatges realitzats i portar l’acreditació de treballador de l’aeroport. </p>\n<p>Si s'ha fet un mal ús del títol, no es pot fer cap tipus de bescanvi. </p>\n<h3 id=\"h_01HGD4CK5NRA4J7TCAXSZ5T08N\"><strong>Títol embussat</strong></h3>\n<p>Si el títol es queda a una de les màquines validadores, el client ha de contactar amb el personal de l'estació a través dels intèrfons perquè li pugui treure el títol. Si no ho fa o si l'agent no pot treure el títol, ha de fer una reclamació aportant el màxim de dades possibles. </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

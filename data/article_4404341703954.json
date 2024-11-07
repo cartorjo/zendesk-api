@@ -1,0 +1,34 @@
+{
+  "id": 4404341703954,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4404341703954.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4404341703954-T-mobilitat-Usuaris-an%C3%B2nims-i-identificats",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003814159,
+  "created_at": "2021-07-27T10:12:51Z",
+  "updated_at": "2024-05-13T10:42:00Z",
+  "name": "T-mobilitat: Usuaris anònims i identificats",
+  "title": "T-mobilitat: Usuaris anònims i identificats",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-05-13T10:41:58Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "usuaris",
+    "anònims",
+    "identificats"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Què son?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Son dos tipus d’usuaris en funció de si estan registrats al sistema o no.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quina diferència hi ha entre anònim i identificat?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Els anònims son aquells que no consten als sistemes d’informació del sistema de transport i que no consten dades d'ells al sistema. Els identificats son aquells que sí consten als sistemes d’informació del sistema de transport.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quan es requereix ser usuari identificat?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Si un usuari vol tenir clients vinculats al seu càrrec, o bé suports PVC o virtual, cal que es doni d'alta a T-mobilitat. En canvi, si el client és usuari del suport cartró, no cal que es doni d'alta. Donat que el cartró TSC no es pot registrar al compte d'un client, no cal ser client de T-mobilitat per ser usuari d'un suport cartró T-mobilitat.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quins títols pot adquirir un anònim?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Poden adquirir, en format cartró T-mobilitat: T-usual (sense bonificació), T-casual, T-familiar i T-grup.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quin tipus de suport pot tenir un anònim?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Només podran utilitzar suports cartró.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quins títols pot adquirir un identificat?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Un usuari identificat pot adquirir qualsevol títol disponible en T-mobilitat. Si un client vol adquirir una T-jove, únicament ho podrà fer validant una targeta personalitzada o suport virtual; per tant, haurà de ser client de T-mobilitat.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quin tipus de suport pot tenir un identificat?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Qualsevol tipus de suport: PVC, mòbil i cartró. Tot i que el cartró mai el podrà vincular al seu compte de client.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com un usuari pot arribar a ser un usuari identificat?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Els usuaris anònims podran convertir-se en clients identificats sempre que cedeixin les seves dades al Sistema. Per cedir les dades s'han de donar d<a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/360019352439\" target=\"_self\">'alta com a client.</a></p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quins avantatges tenen els usuaris identificats que no tenen els anònims?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Els usuaris registrats al sistema tenen alguns beneficis com: recuperació de títols en cas de pèrdua o robatori del suport, registre de dades de pagament, consulta de les dades del suport, etc.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

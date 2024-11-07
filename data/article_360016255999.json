@@ -1,0 +1,36 @@
+{
+  "id": 360016255999,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360016255999.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360016255999-Metro-bicibox",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208940,
+  "created_at": "2020-09-03T08:28:07Z",
+  "updated_at": "2023-11-10T12:32:44Z",
+  "name": "Metro: bicibox",
+  "title": "Metro: bicibox",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-11-10T12:32:41Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Bicibox",
+    "Bicis",
+    "estacionament",
+    "bicicletes",
+    "aparcament"
+  ],
+  "body": "<p class=\"wysiwyg-text-align-justify\"><strong>Què és el Bicibox?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Bicibox és una xarxa pública d’aparcaments gratuïts i segurs per a bicicletes privades que es troba distribuïda pels diferents municipis de l’àrea metropolitana de Barcelona.</p>\n<p class=\"wysiwyg-text-align-justify\">Aquest sistema, creat per l'Àrea Metropolitana de Barcelona (AMB), funciona mitjançant el registre previ dels usuaris i de les seves bicicletes que permet estacionar en qualsevol dels aparcaments de forma gratuïta fins a 48 hores seguides els dies laborables, i 72 en el cas que s'incloguin dies dels caps de setmana. A més, l'aplicació per a mòbil corresponent informa de la disponibilitat de totes les estacions per aparcar la bici.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quin és el seu objectiu?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Bicibox té com a objectiu fomentar la intermodalitat entre l'ús de la bicicleta i el transport públic i per això s'han instal·lat estacions d'aparcament en els accessos d'algunes estacions de metro. </p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Què és l'E-Bicibox?</strong></p>\n<div class=\"wrapper wysiwyg-text-align-justify\">\n<div class=\"body\">\n<div class=\"main\">\n<div id=\"dnn_ContentPaneFull\">\n<div class=\"DnnModule DnnModule-DNN_HTML DnnModule-578\">\n<div id=\"dnn_ctr578_ContentPane\">\n<div id=\"dnn_ctr578_ModuleContent\" class=\"DNNModuleContent ModDNNHTMLC\">\n<div id=\"dnn_ctr578_HtmlModule_lblContent\" class=\"Normal\">\n<div class=\"container pt-lg pb-lg mt-lg mb-lg\">\n<div class=\"col-sm-6 p-md\">\n<p class=\"lead\">L'e-Bicibox és un abonament del servei Bicibox que permet fer ús d’una flota pública de bicicletes elèctriques disponibles a un conjunt de mòduls d’estacionament exclusius, iguals als que s’utilitzen per a l’abonament Bicibox.</p>\n<p class=\"lead\"><strong>Qui ho gestiona?</strong></p>\n<p class=\"lead\">És gestionat per l'AMB.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quines estacions tenen Bicibox?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Es pot consultar el llistat actualitzat de les estacions Bicibox a: <a href=\"https://www.bicibox.cat/ca-es/Municipis\">https://www.bicibox.cat/ca-es/Municipis</a></p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com és el Bicibox?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Es tracta d’espais rectangulars tancats, amb una porta de control d’accés, que s’obre amb la targeta Bicibox i segueix les condicions i normativa d’aquest servei de l’AMB. També disposa d’un punt de manteniment amb eines per arreglar la bicicleta, en cas de necessitat.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Quin és l'horari?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Tot i que el servei manté la mateixa normativa que el Bicibox, el ciutadà haurà de tenir en compte que l’horari del Bicibox al metro en el cas que es trobi a l'interior de l'estació serà el mateix que l’horari de les estacions de metro.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>És gratuït?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">L’AMB recorda que el Bicibox continua sent un servei metropolità gratuït, sense cost per a l’usuari.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>Com pot un usuari contactar amb aquest servei o com es pot donar d'alta?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">Passeig dels Ferrocarrils Catalans 142-144 de Cornellà de Llobregat<strong> </strong></p>\n<p class=\"wysiwyg-text-align-justify\">De dilluns a divendres de <strong>10.00 h a 13.00</strong> h i els dimecres de <strong>15.00 h a 17.00 h</strong>.</p>\n<p class=\"wysiwyg-text-align-justify\">Telèfon: 934801559 </p>\n<p class=\"wysiwyg-text-align-justify\">Correu electrònic: <a href=\"mailto:info@bicibox.cat\">info@bicibox.cat</a></p>\n<p class=\"wysiwyg-text-align-justify\">Web: <a href=\"https://www.bicibox.cat/ca-es/\">https://www.bicibox.cat/ca-es/</a> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

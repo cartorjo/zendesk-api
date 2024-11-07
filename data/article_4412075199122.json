@@ -1,0 +1,34 @@
+{
+  "id": 4412075199122,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4412075199122.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4412075199122-Corporatiu-TMB-cessi%C3%B3-de-pl%C3%A0nols",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003209560,
+  "created_at": "2021-12-10T08:49:22Z",
+  "updated_at": "2023-11-03T19:23:19Z",
+  "name": "Corporatiu/TMB: cessió de plànols",
+  "title": "Corporatiu/TMB: cessió de plànols",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-05-08T10:53:32Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "plànols",
+    "cessió",
+    "tercers"
+  ],
+  "body": "<p><strong><span data-contrast=\"auto\">Què és?</span></strong><span data-ccp-props='{\"201341983\":0,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><span data-contrast=\"auto\">És un servei que s’ofereix per aconseguir els plànols oficials de TMB per a una publicació de tercers.</span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><strong><span data-contrast=\"auto\">Què ha de fer el/a client/a per publicar el plànol de bus o metro a la seva publicació?</span></strong><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><span data-contrast=\"auto\">Ha de contactar-nos mitjançant l’adreça electrònica </span><a href=\"mailto:serveisespecials@tmb.cat\"><span data-contrast=\"auto\">serveisespecials@tmb.cat </span></a><span data-contrast=\"auto\"> i fer la sol·licitud. </span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><strong><span data-contrast=\"auto\">Quina mida i format tenen els plànols? </span></strong><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><span data-contrast=\"none\">Un cop faci el client la sol·licitud, ens adaptarem a les seves necessitats.</span><span data-ccp-props='{\"201341983\":0,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><strong><span data-contrast=\"auto\">Quina informació s’ofereix als plànols?</span></strong><span data-ccp-props='{\"201341983\":0,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><span data-contrast=\"auto\">Els plànols estan actualitzats i contenen totes les estacions i parades reals. El de metro ofereix totes les línies, les estacions, el grau d’accessibilitat i els enllaços entre línies de la xarxa de metro, FGC, Rodalies de Catalunya i TRAM i el de bus ofereix la totalitat de a xarxa d’autobusos de Barcelona que engloba més de 100 línies.</span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>\n<p><strong>Més informació:</strong></p>\n<p><span data-contrast=\"auto\">+ info: </span><a href=\"https://www.tmb.cat/ca/negocis-tmb/serveis-especials/cessio-planols\"><span data-contrast=\"none\">https://www.tmb.cat/ca/negocis-tmb/serveis-especials/cessio-planols</span></a><span data-contrast=\"auto\"> </span><span data-ccp-props='{\"201341983\":0,\"335551550\":6,\"335551620\":6,\"335559739\":200,\"335559740\":276}'> </span></p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

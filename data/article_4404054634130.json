@@ -1,0 +1,34 @@
+{
+  "id": 4404054634130,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/4404054634130.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/4404054634130-T-mobilitat-qu%C3%A8-%C3%A9s-i-avantatges",
+  "author_id": 363231280940,
+  "comments_disabled": true,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003770400,
+  "created_at": "2021-07-21T07:51:42Z",
+  "updated_at": "2024-05-08T09:06:32Z",
+  "name": "T-mobilitat: què és i avantatges",
+  "title": "T-mobilitat: què és i avantatges",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-10-25T06:54:24Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "zones",
+    "T.mobilitat",
+    "avantatges"
+  ],
+  "body": "<p><strong>Què és?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">T-mobilitat és el nou sistema de bitlletatge i validació del transport públic que et permet viatjar amb tecnologia sense contacte. Integra un conjunt de components tecnològics que van des dels sistemes d’informació centrals fins als equips de camp (com les validadores i les màquines auto-expenedores).</p>\n<p><strong>Qui és el responsable del projecte T-mobilitat?</strong></p>\n<p class=\"wysiwyg-text-align-justify\">El responsable del projecte T-mobilitat és ATM (amb la col·laboració d'AMB), per delegació del Departament de la Vicepresidència i de Polítiques Digitals i Territori de la Generalitat de Catalunya. ATM és una entitat pública formada per la Generalitat de Catalunya, l’Ajuntament de Barcelona i l’Àrea Metropolitana de Barcelona. AMB és una entitat pública formada per la Generalitat de Catalinya, l'Ajuntament de Barcelona, la Diputació de Barcelona i l'ATM.</p>\n<p><strong>Què ha de fer el client per obtenir la T-mobilitat?</strong></p>\n<p>La trajectòria de client que haurà de seguir un usuari per arribar a tenir el seu suport i poder gestionar-lo està formada pels següents processos:</p>\n<ul>\n<li>Alta d'usuari digital (<a href=\"https://www.tmb.cat/ca/jotmbe/que-es-jotmbe\"><strong>JoTMBé</strong></a>): imprescindible per autogestionar el compte T-mobilitat, i per donar-se d'alta digitalment.</li>\n<li>\n<a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/360019352439\" target=\"_self\"><strong>Alta de client </strong></a>(a canals presencials o de forma digital).</li>\n<li>\n<strong><a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/360019299780\" target=\"_self\">Alta de perfil</a>: </strong>en cas de tenir dret a títols bonificats (només disponible en canals presencials).</li>\n<li>\n<a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/4403956354066\" target=\"_self\"><strong>Adquisició d’un suport </strong></a>amb un títol carregat (a canals presencials o de forma digital).</li>\n</ul>\n<p><strong>On es pot fer servir?</strong></p>\n<p>Pots fer servir la T-mobilitat per desplaçar-te en tots els operadors de transport públics de les sis corones de l'Àrea Metropolitana.</p>\n<p><strong>Quins avantatges té?</strong></p>\n<ul>\n<li>Procés de validació més ràpid i àgil.</li>\n<li>Possibilitat d’accedir al transport mitjançant nous dispositius com el telèfon mòbil.</li>\n<li>Targeta de transport més versàtil. El suport PVC podrà incorporar dos títols diferents de manera simultània i fins a dues unitats per cada un dels títols carregats. </li>\n<li>Major grau de seguretat. El nou sistema de transport permetrà als usuaris donats d’alta com a client de la T-mobilitat recuperar els títols en cas de pèrdua o robatori del suport.</li>\n<li>Millora del procés d’adquisició de títols pels usuaris amb dret a bonificació ja que, un cop hagin acreditat el seu dret i adquirit el PVC personalitzat, podran recarregar els títols als que tenen dret de forma autònoma (mentre el seu dret sigui vigent) i a través de diversos canals.</li>\n<li>Ampli ventall de <a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/4403989479186\" target=\"_self\">canals </a><a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/4403989479186\" target=\"_self\">per gestionar els suports</a> i digitalització del servei. El client podrà anticipar-se i gestionar els títols i/o suports a través dels canals digitals, sense necessitat d’acudir expressament a la màquina automàtica abans d’accedir al transport</li>\n<li>El client podrà recarregar títols de manera automàtica sense haver d’estar pendent si la seva T-casual ja s’ha esgotat o no i, per exemple, rebre alertes de saldo en el seu telèfon mòbil.</li>\n</ul>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

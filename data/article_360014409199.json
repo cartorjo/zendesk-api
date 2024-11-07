@@ -1,0 +1,30 @@
+{
+  "id": 360014409199,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014409199.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014409199-T%C3%ADtols-bitllet-senzill-bus-i-bitllet-especial-futbol-Pagament-amb-targeta",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208860,
+  "created_at": "2020-06-10T09:43:46Z",
+  "updated_at": "2024-09-09T10:47:56Z",
+  "name": "Títols: bitllet senzill bus i bitllet especial futbol - Pagament amb targeta",
+  "title": "Títols: bitllet senzill bus i bitllet especial futbol - Pagament amb targeta",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-09T10:47:53Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [],
+  "body": "<p>Són bitllets unipersonals i no integrats, vàlids per fer un viatge en un autobús de TMB. </p>\n<h3 id=\"h_01HD1C4YCBX7387R5A28W7EM97\">Quin és el preu del Bitllet Senzill bus?</h3>\n<p>A partir del 15 de gener de 2024, 2,55 €</p>\n<h3 id=\"h_01HD1C4YCB7VGEXN2MCMA17HWP\">Quin és el preu del Bitllet especial futbol?</h3>\n<p>*Actualment no hi ha servei especial futbol</p>\n<h3 id=\"h_01HD1C4YCB6YZ98BN1S5CZXZQE\">Quina validesa té?</h3>\n<p>Vàlid fins a la finalització del recorregut de la línia on s'ha fet la compra, no és un títol integrat i, per tant, no permet fer transbordament.</p>\n<h3 id=\"h_01HD1C4YCBY2FB2EVJ46A24SNG\">Quins són els punts de venda i com es valida?</h3>\n<p>Els bitllets senzills de bus i els bitllets especials de futbol es compren i validen directament al bus (a través del lector) amb targeta bancària contactless (Visa, Mastercard o American Express), amb dispositiu mòbil i rellotge inte·ligent. Les targetes per a ús en restaurants no són vàlides.</p>\n<p>El procés de compra i validació és simultani. La persona usuària ha d'apropar la targeta bancària, mòbil o rellotge al lector i aquest indicarà \"compra acceptada\" i un senyal verd si la transacció s'ha fet correctament. En cas contrari el lector indicarà \"targeta no vàlida\" amb un senyal vermell.</p>\n<p>Si la lectura no s'ha fet correctament indicarà \"lectura incorrecta\" i s'haurà de tornar a passar la targeta novament.</p>\n<p>La màquina no demana codi ni entrega rebut.</p>\n<h3 id=\"h_01HD1C4YCB4PCA7H7ZRFRCK7RK\">Què faig si hi ha hagut un error en el cobrament?</h3>\n<p>En el cas que hi hagi un error de cobrament, s'ha de dirigir a la persona usuària al <a href=\"https://www.tmb.cat/ca/atencio-al-client/gestions/queixes-reclamacions-suggeriments\" target=\"_blank\" rel=\"noopener noreferrer\">formulari de QRS</a> del web o a un <a href=\"https://www.tmb.cat/ca/atencio-al-client/punts-atencio/punts-tmb\" target=\"_blank\" rel=\"noopener noreferrer\">Punt TMB.</a></p>\n<h3 id=\"h_01HD1C4YCB5Z3R6CYPDK5Q3E90\">Com demostro que he validat si hi ha un control d'intervenció?</h3>\n<p>Si hi ha un control de frau la persona usuària ha d'informar a intervenció dels últims 4 dígits de la targeta.</p>\n<h3 id=\"h_01HD1C4YCB7T73Q8DX9974PT4Y\">Com puc obtenir una factura?</h3>\n<p>Les compres generen una factura simplificada que es pot veure i descarregar a l'apartat \"els meus pagaments\" del portal web <a href=\"https://bitlletbus.tmb.cat/#/login\" target=\"_blank\" rel=\"noopener noreferrer\">Bitllet Bus.</a></p>\n<p>Per demanar una factura completa, l'usuari ha d'enviar un correu electrònic a <a href=\"mailto:clientstmb@tmb.cat\">clientstmb@tmb.cat</a> i aportar les dades fiscals (nom de la persona o de l'empresa, DNI/NIE/NIF/CIF i adreça) i adjuntar la factura simplificada. També pot sol·licitar la factura a un Punt TMB demanant abans cita prèvia.</p>\n<p>Les compres fetes amb mòbil o rellotge no apareixen al portal web. Si un usuari vol una factura simplificada, se li ha d'adreçar a un Punt TMB demanant abans cita prèvia.</p>\n<h3 id=\"h_01HD1C4YCB9GCAKVWZBFEVC08S\">Portal web</h3>\n<p class=\"MsoNormal\">La gestió de les compres/validacions del bitllet senzill de bus comporta estar registrat al portal web <a href=\"https://bitlletbus.tmb.cat/#/login\" target=\"_blank\" rel=\"noopener noreferrer\">Bitllet Bus</a>, que no té cap tipus de relació amb el JoTMBé.</p>\n<p class=\"MsoNormal\">Per acceder al portal cal entrar a la secció de bitllets i tarifes del web on hi ha accés al portal i registrar-se.</p>\n<p class=\"MsoNormal\">Més informació a <a href=\"https://www.tmb.cat/ca/tarifes-metro-bus-barcelona/compra-bitllets-online/validacio-targeta-bancaria\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.tmb.cat/ca/tarifes-metro-bus-barcelona/compra-bitllets-online/validacio-targeta-bancaria</a> </p>\n<p class=\"MsoNormal\"> </p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

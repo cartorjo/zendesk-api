@@ -1,0 +1,33 @@
+{
+  "id": 360014418019,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014418019.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014418019-T%C3%ADtols-facturaci%C3%B3",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208820,
+  "created_at": "2020-06-10T13:24:45Z",
+  "updated_at": "2024-09-06T10:48:42Z",
+  "name": "Títols: facturació",
+  "title": "Títols: facturació",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-06T10:48:39Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "factura",
+    "facturació"
+  ],
+  "body": "<p><strong>Com sol·licito la factura si he comprat i validat un bitllet senzill a bus?</strong></p>\n<p>Les compres generen una factura simplificada que es pot veure i descarregar a l'apartat \"els meus pagaments\" del portal web <a href=\"https://bitlletbus.tmb.cat/#/login\" target=\"_blank\" rel=\"noopener noreferrer\">Bitllet Bus.</a></p>\n<p>Per demanar una factura completa, l'usuari ha d'enviar un correu electrònic a <a href=\"mailto:clientstmb@tmb.cat\">clientstmb@tmb.cat</a> i aportar les dades fiscals (nom de la persona o de l'empresa, DNI/NIE/NIF/CIF i adreça) i adjuntar la factura simplificada. També pot sol·licitar la factura a un Punt TMB demanant abans cita prèvia.</p>\n<p>Les compres fetes amb mòbil o rellotge no apareixen al portal web. Si un usuari vol una factura simplificada, se li ha d'adreçar a un Punt TMB demanant abans cita prèvia.</p>\n<p><strong>Com sol·licito la factura si he comprat a través de les DA's?</strong></p>\n<p>Les màquines de venda de bitllets de metro emeten una factura simplificada per cada compra.</p>\n<p>Si necessites la factura completa d’un bitllet o abonament comprat a les màquines expenedores del metro has d'enviar un correu electrònic a clientstmb@tmb.cat. Has d'indicar les dades fiscals (nom de la persona o empresa, DNI/NIE/NIF/CIF i adreça fiscal) i adjuntar la factura simplificada escanejada o el bitllet escanejat.</p>\n<p><strong>Com sol·licito la factura completa dels bitllets comprats a T-mobilitat?</strong></p>\n<p>T-mobilitat. Consulta el següent <a href=\"https://tmb-qrs.zendesk.com/hc/ca/articles/7656215697692\" target=\"_blank\" rel=\"noopener noreferrer\">enllaç</a></p>\n<p><strong>Com sol·licito la factura de la T-escolar?</strong></p>\n<p>Per demanar factura de la T-escolar s’ha de fer en el <a title=\"/hc/ca/articles/360014454660\" href=\"https://www.tmb.cat/ca/atencio-al-client/punts-atencio/punts-tmb\" target=\"_blank\" rel=\"noopener noreferrer\">Punt TMB</a> en el moment de la compra.</p>\n<p><strong>Com sol·licito la factura de títols integrats comprats a altres operadors?</strong></p>\n<p>Cal demanar cita prèvia a un Punt TMB i portar la factura simplificada o els bitllets o les dues coses. El personal del Punt lliura la factura en el moment. En cas que aportin molts títols, el personal del Punt TMB lliura un resguard al client/a i posteriorment (48 hores aprox.) envien la factura per correu electrònic.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

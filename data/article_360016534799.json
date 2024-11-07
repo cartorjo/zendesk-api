@@ -1,0 +1,35 @@
+{
+  "id": 360016534799,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360016534799.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360016534799-T%C3%ADtols-targeta-acreditativa-de-la-discapacitat",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360004195179,
+  "created_at": "2020-09-18T13:09:58Z",
+  "updated_at": "2023-11-03T19:23:06Z",
+  "name": "Títols: targeta acreditativa de la discapacitat",
+  "title": "Títols: targeta acreditativa de la discapacitat",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2023-08-07T12:30:02Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Targeta discapacitat",
+    "discapacitades",
+    "acreditació",
+    "targeta acreditativa"
+  ],
+  "body": "<h3 class=\"wysiwyg-text-align-justify\">Què és?</h3>\n<p class=\"wysiwyg-text-align-justify\">És una targeta expedida per la Generalitat de Catalunya conforme el seu titular té una discapacitat reconeguda. i permet a les persones usuàries de cadira de rodes, l'exempció de validar al bus quan l’accés es realitzi per la rampa de la porta central i no permeti arribar a la línia de validació.</p>\n<h3 class=\"wysiwyg-text-align-justify\">Per a què serveix?</h3>\n<p class=\"wysiwyg-text-align-justify\">Entre d'altres, les persones usuàries de cadires de rodes que viatgin soles, poden fer-ho sense validar cap títol de transport quan l’accés es realitzi per la rampa de la porta central i no permeti arribar a la línia de validació. El títol podrà ser validat per un inspector o agent de TMB a requeriment. </p>\n<p class=\"wysiwyg-text-align-justify\">A metro, encara que una persona en cadira de rodes disposi d'aquesta acreditació, ha de validar passant per les portes PAR destinades a tal efecte, doncs les màquines de validar es troben a una alçada adient.</p>\n<h3 class=\"wysiwyg-text-align-justify\">Com s'obté?</h3>\n<p class=\"wysiwyg-text-align-justify\">La targeta acreditativa de la discapacitat es pot obtenir a qualsevol oficina d'Afers Socials i Famílies o per internet mitjançant la pàgina web  <a href=\"https://web.gencat.cat/ca/tramits/tramits-temes/Targeta-acreditativa-de-la-discapacitat?category=7614d1e8-a82c-11e3-a972-000c29052e2c\">https://web.gencat.cat/ca/tramits/tramits-temes/Targeta-acreditativa-de-la-discapacitat?category=7614d1e8-a82c-11e3-a972-000c29052e2c</a> </p>\n<h3 class=\"wysiwyg-text-align-justify\">Requerimets</h3>\n<ul>\n<li class=\"wysiwyg-text-align-justify\">Discapacitat reconeguda igual o superior al 33 %.</li>\n<li class=\"wysiwyg-text-align-justify\">Residència habitual a Catalunya.</li>\n</ul>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}

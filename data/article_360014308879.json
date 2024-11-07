@@ -1,0 +1,35 @@
+{
+  "id": 360014308879,
+  "url": "https://tmb-qrs.zendesk.com/api/v2/help_center/ca/articles/360014308879.json",
+  "html_url": "https://tmb-qrs.zendesk.com/hc/ca/articles/360014308879-T%C3%ADtols-validesa",
+  "author_id": 363231280940,
+  "comments_disabled": false,
+  "draft": false,
+  "promoted": false,
+  "position": 0,
+  "vote_sum": 0,
+  "vote_count": 0,
+  "section_id": 360003208820,
+  "created_at": "2020-06-05T10:10:58Z",
+  "updated_at": "2024-09-06T10:54:14Z",
+  "name": "Títols: validesa",
+  "title": "Títols: validesa",
+  "source_locale": "ca",
+  "locale": "ca",
+  "outdated": false,
+  "outdated_locales": [],
+  "edited_at": "2024-09-06T10:54:11Z",
+  "user_segment_id": 10115617003548,
+  "permission_group_id": 587731,
+  "content_tag_ids": [],
+  "label_names": [
+    "Títols",
+    "Validesa",
+    "Caducitat",
+    "canvi de tarifes"
+  ],
+  "body": "<h3 id=\"h_01HD3WD4763EF69259VJ3VZZ1K\" class=\"wysiwyg-text-align-justify\">Quina és la caducitat dels títols comprats el 2023?</h3>\n<p>Els títols adquirits l'any 2023 i entre l'1 i el 14 de gener de 2024 van ser vàlids fins al 30 d'abril de 2024.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>La T-16 i la T-verda</strong> es poden utilitzar fins a la data de caducitat pròpia en cada cas.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>La T-escolar</strong> té una data de caducitat diferent a la resta de títols (3 mesos després del canvi de tarifes). La T-escolar canvia de tarifa al setembre i no pas al gener.</p>\n<p class=\"wysiwyg-text-align-justify\"><strong>La T-rosa</strong> gratuïta té una caducitat anual, indicada al dors del títol.</p>\n<h3 id=\"h_01HKM6H7ZBYFBW9EHKYYTEKD4Z\">Puc bescanviar un títol no utilitzat de 2023? </h3>\n<p class=\"wysiwyg-text-align-justify\">Els títols comprats entre l'1 de gener de 2023 i el 14 de gener de 2024 no s'han pogut bescanviar per títols de tarifa 2024. És a dir, el canvi de tarifes vigent a partir del 15 de gener de 2024 no donava dret a sol·licitar un títol equivalent de la nova tarifa. </p>\n<h3 id=\"h_01HD3WDCVZCRKEAT0Q8C9BT2J8\" class=\"wysiwyg-text-align-justify\">Quina és la validesa dels abonaments mensual i trimestral?</h3>\n<p>Els abonaments mensual i trimestral permeten viatjar durant 30 i 90 dies (respectivament) des de la primera validació.</p>\n<p>En el cas que el darrer dia el servei de metro finalitzi passada la mitjanit, serà vàlid fins a les 3.59 h. de la matinada de l'endemà.</p>",
+  "user_segment_ids": [
+    10115617003548
+  ]
+}
