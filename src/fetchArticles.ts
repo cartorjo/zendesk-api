@@ -23,10 +23,12 @@ const fetchAllArticles = async () => {
             // Count articles on the current page
             totalArticles += data.articles.length;
 
-            // Save each article to a file
+            // Save each article to a file, excluding drafts
             for (const article of data.articles) {
-                await saveDataToFile(article, `article_${article.id}.json`);
-                console.log(`Article ${article.id} saved successfully.`);
+                if (!article.draft) {
+                    await saveDataToFile(article, `article_${article.id}.json`);
+                    console.log(`Article ${article.id} saved successfully.`);
+                }
             }
 
             // Update the next page URL for pagination
